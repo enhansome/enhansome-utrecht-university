@@ -1,0 +1,661 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Projects"
+    },
+    {
+      "description": "Research projects with supplementing code stored on online Git repositories.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SoftPool",
+          "description": "Code for approximated exponential maximum pooling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-27T16:00:09Z",
+            "owner": "alexandrosstergiou",
+            "repo": "SoftPool",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PCR-GLOBWB_model",
+          "description": "PCR-GLOBWB (PCRaster Global Water Balance) is a large-scale hydrological model intended for global to regional studies and developed at the Department of Physical Geography.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T12:35:35Z",
+            "owner": "UU-Hydro",
+            "repo": "PCR-GLOBWB_model",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Squeeze-and-Recursion-Temporal-Gates",
+          "description": "Code for : [Pattern Recognit. Lett. 2020] \"Learn to cycle: Time-consistent feature discovery for action recognition\" and [arXiv] \"Right on Time: Multi-Temporal Convolutions for Human Action Recognition in Videos\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-31T07:58:15Z",
+            "owner": "alexandrosstergiou",
+            "repo": "Squeeze-and-Recursion-Temporal-Gates",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions",
+          "description": "Implementation of Saliency Tubes for 3D Convolutions in Pytoch and Keras to localise the focus spatio-temporal regions of 3D CNNs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-04-02T07:19:13Z",
+            "owner": "alexandrosstergiou",
+            "repo": "Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ContrastiveExplanation",
+          "description": "Contrastive Explanation (Foil Trees), developed at TNO/Utrecht University",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-31T12:03:11Z",
+            "owner": "MarcelRobeer",
+            "repo": "ContrastiveExplanation",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoNewsMiner",
+          "description": "The GeoNewsMiner (GNM): An interactive spatial humanities tool to visualize geographical references in historical newspapers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-02-21T13:52:55Z",
+            "owner": "lorellav",
+            "repo": "GeoNewsMiner",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PuReGoMe",
+          "description": "Notebooks of the PuReGoMe Project of the Netherlands eScience Center and Utrecht University.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-20T10:24:13Z",
+            "owner": "puregome",
+            "repo": "notebooks",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aragonite_clumped",
+          "description": "R code for processing and plotting of clumped isotope data from aragonite samples in \"Temperature dependence of clumped isotopes (∆47) in aragonite\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-07-20T07:19:51Z",
+            "owner": "nielsjdewinter",
+            "repo": "Aragonite_clumped",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seasonalclumped",
+          "description": "R package for generating virtual stable isotope data to model sampling strategies for seasonality reconstructions in \"Optimizing sampling strategies in high-resolution paleoclimate records\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-03-10T07:52:03Z",
+            "owner": "nielsjdewinter",
+            "repo": "seasonalclumped",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stdstats",
+          "description": "Simulation and plotting code for \"Optimizing the use of carbonate standards to minimize uncertainties in clumped isotope data\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-26T22:27:55Z",
+            "owner": "japhir",
+            "repo": "stdstats",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DA_model",
+          "description": "R code for simulating diffusion-advection models for leaching of trace elements into tooth enamel during burial and diagenesis of archeological and paleontological specimens in \"High-resolution trace element distributions and models of trace element diffusion in enamel of Late Neolithic/Early Chalcolithic human molars from the Rioja Alavesa region (north-central Spain) help to separate biogenic from diagenetic trends\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-01-28T15:31:29Z",
+            "owner": "nielsjdewinter",
+            "repo": "DA_model",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Research code"
+    },
+    {
+      "description": "Software developed by researchers and employees of Utrecht University. The software in this list is installable and can be used in new or existing research projects or courses.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "recordlinkage",
+          "description": "A toolkit for record linkage and duplicate detection in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-21T18:15:38Z",
+            "owner": "J535D165",
+            "repo": "recordlinkage",
+            "stars": 1059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asreview",
+          "description": "Active learning for systematic reviews",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T23:22:20Z",
+            "owner": "asreview",
+            "repo": "asreview",
+            "stars": 971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mice",
+          "description": "Multivariate Imputation by Chained Equations",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ggmice",
+              "description": "Visualize incomplete and imputed data with the R package",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "R",
+                "last_commit": "2026-08-10T00:57:45Z",
+                "owner": "amices",
+                "repo": "ggmice",
+                "stars": 35
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-07T08:10:10Z",
+            "owner": "amices",
+            "repo": "mice",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pdb-tools",
+          "description": "A dependency-free cross-platform swiss army knife for PDB files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T05:01:05Z",
+            "owner": "haddocking",
+            "repo": "pdb-tools",
+            "stars": 457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "parcels",
+          "description": "Main code for Parcels (Probably A Really Computationally Efficient Lagrangian Simulator)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:31:47Z",
+            "owner": "Parcels-code",
+            "repo": "Parcels",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PCRaster",
+          "description": "Environmental modeling software",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T18:12:00Z",
+            "owner": "pcraster",
+            "repo": "pcraster",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ricgraph",
+          "description": "With Ricgraph, you can create a graph from research information that is stored in various source systems. You can explore this graph and discover relations you were not aware of. For code, extensive documentation and videos follow the link.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T12:24:43Z",
+            "owner": "UtrechtUniversity",
+            "repo": "ricgraph",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stitch",
+          "description": "A program for de novo sequencing of antibodies/proteins based on massspectrometry data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-15T11:26:17Z",
+            "owner": "snijderlab",
+            "repo": "stitch",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iBridges",
+          "description": "Python API and commandline interface to easily interact with Yoda and iRODS servers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:58:01Z",
+            "owner": "iBridges-for-iRODS",
+            "repo": "iBridges",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osmenrich",
+          "description": "Enrich sf data with geographic features from OpenStreetMaps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2021-12-21T22:35:18Z",
+            "owner": "sodascience",
+            "repo": "osmenrich",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iBridges-GUI",
+          "description": "A graphical user interface for iBridges",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:13:17Z",
+            "owner": "iBridges-for-iRODS",
+            "repo": "iBridges-GUI",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LUE",
+          "description": "Modelling framework for simulating large geographical systems of agents and fields",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-22T19:37:44Z",
+            "owner": "computationalgeography",
+            "repo": "lue",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oceanexplorer",
+          "description": "An R interface to the NOAA World Ocean Atlas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-30T12:32:19Z",
+            "owner": "MartinSchobben",
+            "repo": "oceanexplorer",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bain",
+          "description": "Bayes Factors for Informative Hypotheses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-06-12T11:06:00Z",
+            "owner": "cjvanlissa",
+            "repo": "bain",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "admtools",
+          "description": "R package to transform data using age-depth models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-28T08:06:19Z",
+            "owner": "MindTheGap-ERC",
+            "repo": "admtools",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShellChron",
+          "description": "R package for constructing age models based on stable oxygen isotope records from accretionary carbonate archives",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-08-18T13:59:18Z",
+            "owner": "nielsjdewinter",
+            "repo": "ShellChron",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StratPal",
+          "description": "R package to build modeling pipelines for paleontology",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-04-28T06:15:35Z",
+            "owner": "MindTheGap-ERC",
+            "repo": "StratPal",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Research software"
+    },
+    {
+      "description": "Research data stored in git repositories.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CoronaWatchNL",
+          "description": "Numbers concerning COVID-19 disease cases in The Netherlands by RIVM, LCPS, NICE, ECML, and Rijksoverheid.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-04-18T08:50:38Z",
+            "owner": "J535D165",
+            "repo": "CoronaWatchNL",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "childdevdata",
+          "description": "R package with Child Development Data from ten studies, containing 1,116,061 assessments made on 10,831 unique children during 28,465 visits, covering 21 different instruments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-04-18T14:03:10Z",
+            "owner": "D-score",
+            "repo": "childdevdata",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Research data"
+    },
+    {
+      "description": "Tools for research project management, data management, software management, and lab tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "worcs",
+          "description": "Rstudio project template and convenience functions for the Workflow for Open Reproducible Code in Science (WORCS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-03-27T12:37:34Z",
+            "owner": "cjvanlissa",
+            "repo": "worcs",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UU-dissertation-template",
+          "description": "a Utrecht University dissertation template for LaTeX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2025-07-31T19:53:51Z",
+            "owner": "UtrechtUniversity",
+            "repo": "UU-dissertation-template",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uu-quarto-presentation-template",
+          "description": "a Utrecht University template for presentations using Quarto.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2025-10-29T10:25:38Z",
+            "owner": "UtrechtUniversity",
+            "repo": "uu-quarto-presentation-template",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beamer-uu",
+          "description": "a Utrecht University template for presentations using LaTeX beamer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-05-14T15:31:34Z",
+            "owner": "joszuijderwijk",
+            "repo": "beamer-uu",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "labphew",
+          "description": "a minimalist functioning code module and folder structure, built to teach and exercise with computer-controlled measurements using Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-18T18:06:18Z",
+            "owner": "SanliFaez",
+            "repo": "labphew",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Research project management"
+    },
+    {
+      "description": "Open teaching materials are guidelines, tutorials or any other educational material. Where to discover further resources relevant for UU research like books, podcasts, additional websites and newsletters.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "workshop-introduction-to-R-and-data",
+          "description": "Material for the workshop 'Introduction to R & data' by RDM Support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-18T13:50:34Z",
+            "owner": "UtrechtUniversity",
+            "repo": "workshop-introduction-to-R-and-data",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Virtual Ship",
+          "description": "a simulator allowing students to plan and conduct a virtual research expedition, receiving measurements as if they were coming from actual oceanographic instruments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T11:50:19Z",
+            "owner": "Parcels-code",
+            "repo": "virtualship",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Textbook on Quantitative Methods and Statistics",
+          "description": "Textbook on Quantitative Methods and Statistics aimed at humanities researchers and students (English version, EN) (Dutch version, NL)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-03-20T15:54:58Z",
+            "owner": "hugoquene",
+            "repo": "QMS-EN",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShinyEducation",
+          "description": "The 'ShinyEducation' project at Utrecht University's Department of Methodology & Statistics uses interactive Shiny applications to explain statistical concepts. Applications cover topics like ANOVA, ANCOVA, t-tests, and correlation. This hands-on approach promotes immersive learning. Explore more here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-06-15T15:00:42Z",
+            "owner": "UtrechtUniversity",
+            "repo": "ShinyEducation",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DarwinCAT",
+          "description": "A Shiny web application to experiment and visualize how evolution is distorted by the geological record. Useful in teaching palaeobiology and evolutionary biology. Developed and used in courses at the Department of Earth Sciences, Utrecht University.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-03-03T12:31:33Z",
+            "owner": "MindTheGap-ERC",
+            "repo": "DarwinCAT",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shellbed Condensator",
+          "description": "A Shiny web app to visualize the effects of changing sedimentation rates on the formation of fossil accumulations. Useful in teaching geoscience and palaeobiology. Developed and used in courses at the Department of Earth Sciences, Utrecht University.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-03-03T12:34:32Z",
+            "owner": "MindTheGap-ERC",
+            "repo": "ShellbedCondensator",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Education and workshops"
+    },
+    {
+      "description": "Do you know about a project that should be in the Awesome Utrecht University list? This could be your own project or a project of one of your colleagues. We would love to hear about that project! The contribution guidelines help you to propose a new project to the list.",
+      "items": [],
+      "title": "Add project to this list"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Background"
+    },
+    {
+      "description": "\"Awesome lists\" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see https://github.com/sindresorhus/awesome). Read \"The awesome manifesto\" for more information about awesome lists.",
+      "items": [],
+      "title": "What is an Awesome list?"
+    },
+    {
+      "description": "The initial collection of projects was made based on the collected repositories from the SWORDS-UU project (more information follows soon). Repositories were considered when they have a license and 25 stars or fulfill 4/5 FAIR criteria.",
+      "items": [],
+      "title": "Initial project collection"
+    },
+    {
+      "description": "We encourage other universities to also implement awesome lists for their research. You can fork this repository as a starting point. Having such a list is a useful resource to showcase good projects that have been conducted or are still ongoing and helps promoting the open science approach. If you need help getting started please don't hesitate to reach out to us. We will gladly assist you.",
+      "items": [],
+      "title": "Implementing Awesome lists for your university"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:21:47.879Z",
+    "original_repository": "UtrechtUniversity/awesome-utrecht-university",
+    "original_repository_sha": "c8953426c5c8233af028017444c0d99675b94cdb",
+    "enhanced_repository": "enhansome/enhansome-utrecht-university",
+    "enhanced_repository_description": null,
+    "title": "Awesome Utrecht University with stars"
+  }
+}
