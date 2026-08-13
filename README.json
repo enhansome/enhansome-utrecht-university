@@ -247,7 +247,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T19:31:47Z",
+            "last_commit": "2026-08-13T14:12:58Z",
             "owner": "Parcels-code",
             "repo": "Parcels",
             "stars": 357
@@ -345,7 +345,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-07-22T19:37:44Z",
+            "last_commit": "2026-08-13T15:11:35Z",
             "owner": "computationalgeography",
             "repo": "lue",
             "stars": 17
@@ -559,7 +559,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T11:50:19Z",
+            "last_commit": "2026-08-13T07:01:00Z",
             "owner": "Parcels-code",
             "repo": "virtualship",
             "stars": 13
@@ -651,7 +651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:21:47.879Z",
+    "last_updated": "2026-08-13T21:26:28.132Z",
     "original_repository": "UtrechtUniversity/awesome-utrecht-university",
     "original_repository_sha": "c8953426c5c8233af028017444c0d99675b94cdb",
     "enhanced_repository": "enhansome/enhansome-utrecht-university",
