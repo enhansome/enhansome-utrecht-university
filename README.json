@@ -179,7 +179,7 @@
             "last_commit": "2024-02-21T18:15:38Z",
             "owner": "J535D165",
             "repo": "recordlinkage",
-            "stars": 1059
+            "stars": 1060
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-08-10T23:22:20Z",
             "owner": "asreview",
             "repo": "asreview",
-            "stars": 971
+            "stars": 972
           }
         },
         {
@@ -651,7 +651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:00:29.643Z",
+    "last_updated": "2026-08-15T20:55:20.687Z",
     "original_repository": "UtrechtUniversity/awesome-utrecht-university",
     "original_repository_sha": "c8953426c5c8233af028017444c0d99675b94cdb",
     "enhanced_repository": "enhansome/enhansome-utrecht-university",
