@@ -179,7 +179,7 @@
             "last_commit": "2024-02-21T18:15:38Z",
             "owner": "J535D165",
             "repo": "recordlinkage",
-            "stars": 1060
+            "stars": 1059
           }
         },
         {
@@ -190,7 +190,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T23:22:20Z",
+            "last_commit": "2026-08-17T16:42:53Z",
             "owner": "asreview",
             "repo": "asreview",
             "stars": 973
@@ -247,7 +247,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:17:05Z",
+            "last_commit": "2026-08-17T20:51:42Z",
             "owner": "Parcels-code",
             "repo": "Parcels",
             "stars": 357
@@ -303,7 +303,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T10:15:17Z",
+            "last_commit": "2026-08-17T09:08:04Z",
             "owner": "iBridges-for-iRODS",
             "repo": "iBridges",
             "stars": 21
@@ -514,7 +514,7 @@
             "last_commit": "2026-05-14T15:31:34Z",
             "owner": "joszuijderwijk",
             "repo": "beamer-uu",
-            "stars": 7
+            "stars": 8
           }
         },
         {
@@ -559,7 +559,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T12:01:06Z",
+            "last_commit": "2026-08-17T20:51:03Z",
             "owner": "Parcels-code",
             "repo": "virtualship",
             "stars": 13
@@ -651,7 +651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:54:49.521Z",
+    "last_updated": "2026-08-17T20:59:13.309Z",
     "original_repository": "UtrechtUniversity/awesome-utrecht-university",
     "original_repository_sha": "c8953426c5c8233af028017444c0d99675b94cdb",
     "enhanced_repository": "enhansome/enhansome-utrecht-university",
