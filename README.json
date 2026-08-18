@@ -193,7 +193,7 @@
             "last_commit": "2026-08-17T16:42:53Z",
             "owner": "asreview",
             "repo": "asreview",
-            "stars": 973
+            "stars": 974
           }
         },
         {
@@ -247,7 +247,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:51:42Z",
+            "last_commit": "2026-08-18T13:14:17Z",
             "owner": "Parcels-code",
             "repo": "Parcels",
             "stars": 357
@@ -303,7 +303,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T09:08:04Z",
+            "last_commit": "2026-08-18T12:12:49Z",
             "owner": "iBridges-for-iRODS",
             "repo": "iBridges",
             "stars": 21
@@ -559,7 +559,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:51:03Z",
+            "last_commit": "2026-08-18T12:00:41Z",
             "owner": "Parcels-code",
             "repo": "virtualship",
             "stars": 13
@@ -651,7 +651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:59:13.309Z",
+    "last_updated": "2026-08-18T20:56:26.764Z",
     "original_repository": "UtrechtUniversity/awesome-utrecht-university",
     "original_repository_sha": "c8953426c5c8233af028017444c0d99675b94cdb",
     "enhanced_repository": "enhansome/enhansome-utrecht-university",
