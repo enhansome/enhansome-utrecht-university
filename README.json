@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-19T11:07:50Z",
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 976
+                "stars": 977
               }
             },
             {
@@ -277,7 +277,7 @@
                 "archived": false,
                 "id": 38312905,
                 "language": "C++",
-                "last_commit": "2026-08-14T10:00:48Z",
+                "last_commit": "2026-08-19T17:00:46Z",
                 "owner": "pcraster",
                 "repo": "pcraster",
                 "stars": 99
@@ -482,7 +482,7 @@
                 "last_commit": "2023-04-18T14:03:10Z",
                 "owner": "D-score",
                 "repo": "childdevdata",
-                "stars": 3
+                "stars": 4
               }
             }
           ],
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:00:13.707Z",
+    "last_updated": "2026-08-19T20:58:42.908Z",
     "original_repository": "UtrechtUniversity/awesome-utrecht-university",
     "original_repository_id": 386910250,
     "original_repository_sha": "c8953426c5c8233af028017444c0d99675b94cdb",
