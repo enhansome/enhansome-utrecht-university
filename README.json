@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-06T12:35:35Z",
                 "owner": "UU-Hydro",
                 "repo": "PCR-GLOBWB_model",
-                "stars": 147
+                "stars": 148
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-19T11:07:50Z",
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 977
+                "stars": 978
               }
             },
             {
@@ -277,7 +277,7 @@
                 "archived": false,
                 "id": 38312905,
                 "language": "C++",
-                "last_commit": "2026-08-19T17:00:46Z",
+                "last_commit": "2026-08-20T16:22:07Z",
                 "owner": "pcraster",
                 "repo": "pcraster",
                 "stars": 99
@@ -367,7 +367,7 @@
                 "archived": false,
                 "id": 61718900,
                 "language": "C++",
-                "last_commit": "2026-08-13T15:11:35Z",
+                "last_commit": "2026-08-20T17:32:57Z",
                 "owner": "computationalgeography",
                 "repo": "lue",
                 "stars": 17
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:58:42.908Z",
+    "last_updated": "2026-08-20T21:01:06.736Z",
     "original_repository": "UtrechtUniversity/awesome-utrecht-university",
     "original_repository_id": 386910250,
     "original_repository_sha": "c8953426c5c8233af028017444c0d99675b94cdb",
