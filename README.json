@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-19T11:07:50Z",
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 978
+                "stars": 979
               }
             },
             {
@@ -277,7 +277,7 @@
                 "archived": false,
                 "id": 38312905,
                 "language": "C++",
-                "last_commit": "2026-08-20T16:22:07Z",
+                "last_commit": "2026-08-21T18:13:59Z",
                 "owner": "pcraster",
                 "repo": "pcraster",
                 "stars": 99
@@ -385,7 +385,7 @@
                 "last_commit": "2026-07-30T12:32:19Z",
                 "owner": "MartinSchobben",
                 "repo": "oceanexplorer",
-                "stars": 10
+                "stars": 11
               }
             },
             {
@@ -598,7 +598,7 @@
                 "archived": false,
                 "id": 682478059,
                 "language": "Python",
-                "last_commit": "2026-08-18T12:00:41Z",
+                "last_commit": "2026-08-21T12:48:20Z",
                 "owner": "Parcels-code",
                 "repo": "virtualship",
                 "stars": 13
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:01:06.736Z",
+    "last_updated": "2026-08-21T20:56:43.318Z",
     "original_repository": "UtrechtUniversity/awesome-utrecht-university",
     "original_repository_id": 386910250,
     "original_repository_sha": "c8953426c5c8233af028017444c0d99675b94cdb",
