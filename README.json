@@ -262,7 +262,7 @@
                 "archived": false,
                 "id": 43358723,
                 "language": "Python",
-                "last_commit": "2026-08-19T05:25:26Z",
+                "last_commit": "2026-08-21T21:06:57Z",
                 "owner": "Parcels-code",
                 "repo": "Parcels",
                 "stars": 357
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T20:56:43.318Z",
+    "last_updated": "2026-08-22T20:56:08.202Z",
     "original_repository": "UtrechtUniversity/awesome-utrecht-university",
     "original_repository_id": 386910250,
     "original_repository_sha": "c8953426c5c8233af028017444c0d99675b94cdb",
