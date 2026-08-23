@@ -201,10 +201,10 @@
                 "archived": false,
                 "id": 164874894,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:07:50Z",
+                "last_commit": "2026-08-23T20:23:48Z",
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 979
+                "stars": 981
               }
             },
             {
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T20:56:08.202Z",
+    "last_updated": "2026-08-23T20:55:26.561Z",
     "original_repository": "UtrechtUniversity/awesome-utrecht-university",
     "original_repository_id": 386910250,
     "original_repository_sha": "c8953426c5c8233af028017444c0d99675b94cdb",
