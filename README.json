@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-23T20:23:48Z",
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 981
+                "stars": 982
               }
             },
             {
@@ -262,7 +262,7 @@
                 "archived": false,
                 "id": 43358723,
                 "language": "Python",
-                "last_commit": "2026-08-21T21:06:57Z",
+                "last_commit": "2026-08-24T14:28:02Z",
                 "owner": "Parcels-code",
                 "repo": "Parcels",
                 "stars": 357
@@ -277,7 +277,7 @@
                 "archived": false,
                 "id": 38312905,
                 "language": "C++",
-                "last_commit": "2026-08-21T18:13:59Z",
+                "last_commit": "2026-08-24T06:30:55Z",
                 "owner": "pcraster",
                 "repo": "pcraster",
                 "stars": 99
@@ -412,7 +412,7 @@
                 "archived": false,
                 "id": 600476509,
                 "language": "R",
-                "last_commit": "2026-04-28T08:06:19Z",
+                "last_commit": "2026-08-24T11:08:54Z",
                 "owner": "MindTheGap-ERC",
                 "repo": "admtools",
                 "stars": 4
@@ -442,7 +442,7 @@
                 "archived": false,
                 "id": 828433860,
                 "language": "R",
-                "last_commit": "2026-04-28T06:15:35Z",
+                "last_commit": "2026-08-24T10:55:50Z",
                 "owner": "MindTheGap-ERC",
                 "repo": "StratPal",
                 "stars": 2
@@ -598,7 +598,7 @@
                 "archived": false,
                 "id": 682478059,
                 "language": "Python",
-                "last_commit": "2026-08-21T12:48:20Z",
+                "last_commit": "2026-08-24T10:00:52Z",
                 "owner": "Parcels-code",
                 "repo": "virtualship",
                 "stars": 13
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:55:26.561Z",
+    "last_updated": "2026-08-24T14:46:02.905Z",
     "original_repository": "UtrechtUniversity/awesome-utrecht-university",
     "original_repository_id": 386910250,
     "original_repository_sha": "c8953426c5c8233af028017444c0d99675b94cdb",
