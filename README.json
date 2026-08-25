@@ -189,7 +189,7 @@
                 "last_commit": "2024-02-21T18:15:38Z",
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1059
+                "stars": 1060
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-24T16:44:21Z",
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 982
+                "stars": 983
               }
             },
             {
@@ -262,7 +262,7 @@
                 "archived": false,
                 "id": 43358723,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:42:16Z",
+                "last_commit": "2026-08-25T13:39:33Z",
                 "owner": "Parcels-code",
                 "repo": "Parcels",
                 "stars": 357
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:38:24.885Z",
+    "last_updated": "2026-08-25T20:59:49.904Z",
     "original_repository": "UtrechtUniversity/awesome-utrecht-university",
     "original_repository_id": 386910250,
     "original_repository_sha": "c8953426c5c8233af028017444c0d99675b94cdb",
