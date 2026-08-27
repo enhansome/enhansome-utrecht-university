@@ -2,7 +2,7 @@
 
 # Awesome Utrecht University with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,233 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,368 | 🐛 105 | 📅 2026-08-21
 
 A curated list of awesome research code, software, manuals, and more on Git, developed by [**Utrecht University**](https://uu.nl) researchers, students, and employees. The list can be your starting point to find interesting UU projects, and get inpired and learn from other projects. Is your project also "awesome"? Add it to this list (see [Contributing](CONTRIBUTING.md)).
 
@@ -64,7 +64,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 * [PCRaster](https://github.com/pcraster/pcraster) ⭐ 99 | 🐛 84 | 🌐 C++ | 📅 2026-08-26 - Environmental modeling software
 * [Ricgraph](https://github.com/UtrechtUniversity/ricgraph) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2026-07-08 - With Ricgraph, you can create a graph from research information that is stored in various source systems. You can explore this graph and discover relations you were not aware of. For code, extensive documentation and videos follow the link.
 * [Stitch](https://github.com/snijderlab/stitch) ⭐ 32 | 🐛 22 | 🌐 C# | 📅 2024-10-15 - A program for de novo sequencing of antibodies/proteins based on massspectrometry data.
-* [iBridges](https://github.com/UtrechtUniversity/iBridges) ⭐ 21 | 🐛 10 | 🌐 Python | 📅 2026-08-19 - Python API and commandline interface to easily interact with Yoda and iRODS servers
+* [iBridges](https://github.com/UtrechtUniversity/iBridges) ⭐ 21 | 🐛 10 | 🌐 Python | 📅 2026-08-27 - Python API and commandline interface to easily interact with Yoda and iRODS servers
 * [osmenrich](https://github.com/sodascience/osmenrich) ⭐ 19 | 🐛 4 | 🌐 R | 📅 2021-12-21 - Enrich sf data with geographic features from OpenStreetMaps.
 * [iBridges-GUI](https://github.com/chStaiger/iBridges-Gui) ⭐ 18 | 🐛 5 | 🌐 Python | 📅 2026-08-11 - A graphical user interface for iBridges
 * [LUE](https://github.com/computationalgeography/lue) ⭐ 17 | 🐛 244 | 🌐 C++ | 📅 2026-08-20 - Modelling framework for simulating large geographical systems of agents and fields
@@ -98,7 +98,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 *Open teaching materials are guidelines, tutorials or any other educational material. Where to discover further resources relevant for UU research like books, podcasts, additional websites and newsletters.*
 
 * [workshop-introduction-to-R-and-data](https://github.com/UtrechtUniversity/workshop-introduction-to-R-and-data) ⭐ 36 | 🐛 5 | 🌐 HTML | 📅 2026-05-18 - Material for the workshop 'Introduction to R & data' by [RDM Support](https://www.uu.nl/en/research/research-data-management)
-* [Virtual Ship](https://github.com/OceanParcels/virtualship) ⭐ 13 | 🐛 36 | 🌐 Python | 📅 2026-08-24 - a simulator allowing students to plan and conduct a virtual research expedition, receiving measurements as if they were coming from actual oceanographic instruments
+* [Virtual Ship](https://github.com/OceanParcels/virtualship) ⭐ 13 | 🐛 35 | 🌐 Python | 📅 2026-08-27 - a simulator allowing students to plan and conduct a virtual research expedition, receiving measurements as if they were coming from actual oceanographic instruments
 * [Textbook on Quantitative Methods and Statistics](https://github.com/hugoquene/QMS-EN) ⭐ 9 | 🐛 2 | 🌐 TeX | 📅 2026-03-20 Textbook on Quantitative Methods and Statistics aimed at humanities researchers and students [(English version, EN)](https://hugoquene.github.io/QMS-EN/) [(Dutch version, NL)](https://hugoquene.github.io/KMS-NL/)
 * [ShinyEducation](https://github.com/UtrechtUniversity/ShinyEducation) ⭐ 3 | 🐛 0 | 🌐 CSS | 📅 2023-06-15 The 'ShinyEducation' project at Utrecht University's Department of Methodology & Statistics uses interactive Shiny applications to explain statistical concepts. Applications cover topics like ANOVA, ANCOVA, t-tests, and correlation. This hands-on approach promotes immersive learning. Explore more [here](https://utrechtuniversity.github.io/ShinyEducation/).
 * [DarwinCAT](https://github.com/MindTheGap-ERC/DarwinCAT) ⭐ 2 | 🐛 0 | 🌐 R | 📅 2025-03-03 A Shiny web application to experiment and visualize how evolution is distorted by the geological record. Useful in teaching palaeobiology and evolutionary biology. Developed and used in courses at the Department of Earth Sciences, Utrecht University.
@@ -122,7 +122,7 @@ Do you know about a project that should be in the Awesome Utrecht University lis
 
 ### What is an Awesome list?
 
-"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see <https://github.com/sindresorhus/awesome> ⭐ 500,233 | 🐛 105 | 📅 2026-08-21). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 500,233 | 🐛 105 | 📅 2026-08-21 for more information about awesome lists.
+"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see <https://github.com/sindresorhus/awesome> ⭐ 500,368 | 🐛 105 | 📅 2026-08-21). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 500,368 | 🐛 105 | 📅 2026-08-21 for more information about awesome lists.
 
 ### Initial project collection
 

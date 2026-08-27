@@ -322,7 +322,7 @@
                 "archived": false,
                 "id": 724112706,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:05:01Z",
+                "last_commit": "2026-08-27T09:55:31Z",
                 "owner": "iBridges-for-iRODS",
                 "repo": "iBridges",
                 "stars": 21
@@ -598,7 +598,7 @@
                 "archived": false,
                 "id": 682478059,
                 "language": "Python",
-                "last_commit": "2026-08-24T20:27:22Z",
+                "last_commit": "2026-08-27T11:15:12Z",
                 "owner": "Parcels-code",
                 "repo": "virtualship",
                 "stars": 13
@@ -674,9 +674,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:03:27.578Z",
-    "original_repository": "UtrechtUniversity/awesome-utrecht-university",
-    "original_repository_id": 386910250,
+    "last_updated": "2026-08-27T12:09:05.104Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 386910250,
+      "language": "Python",
+      "last_commit": "2026-06-29T07:15:04Z",
+      "owner": "UtrechtUniversity",
+      "repo": "awesome-utrecht-university",
+      "stars": 58
+    },
     "original_repository_sha": "c8953426c5c8233af028017444c0d99675b94cdb",
     "enhanced_repository": "enhansome/enhansome-utrecht-university",
     "enhanced_repository_description": null,
