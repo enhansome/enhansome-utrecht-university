@@ -18,7 +18,8 @@
                 "owner": "alexandrosstergiou",
                 "repo": "SoftPool",
                 "stars": 300
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "UU-Hydro",
                 "repo": "PCR-GLOBWB_model",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "alexandrosstergiou",
                 "repo": "Squeeze-and-Recursion-Temporal-Gates",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "alexandrosstergiou",
                 "repo": "Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "MarcelRobeer",
                 "repo": "ContrastiveExplanation",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "lorellav",
                 "repo": "GeoNewsMiner",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "puregome",
                 "repo": "notebooks",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "nielsjdewinter",
                 "repo": "Aragonite_clumped",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "nielsjdewinter",
                 "repo": "seasonalclumped",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "japhir",
                 "repo": "stdstats",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "nielsjdewinter",
                 "repo": "DA_model",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             }
           ],
           "description": "Research projects with supplementing code stored on online Git repositories.",
@@ -189,8 +200,9 @@
                 "last_commit": "2024-02-21T18:15:38Z",
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1060
-              }
+                "stars": 1061
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -204,8 +216,9 @@
                 "last_commit": "2026-08-25T21:40:13Z",
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 983
-              }
+                "stars": 985
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -225,7 +238,8 @@
                     "owner": "amices",
                     "repo": "ggmice",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:27:56.055Z"
                 }
               ],
               "repo_info": {
@@ -236,7 +250,8 @@
                 "owner": "amices",
                 "repo": "mice",
                 "stars": 516
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -251,7 +266,8 @@
                 "owner": "haddocking",
                 "repo": "pdb-tools",
                 "stars": 457
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -262,11 +278,12 @@
                 "archived": false,
                 "id": 43358723,
                 "language": "Python",
-                "last_commit": "2026-08-25T13:39:33Z",
+                "last_commit": "2026-08-28T03:27:14Z",
                 "owner": "Parcels-code",
                 "repo": "Parcels",
                 "stars": 358
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -277,11 +294,12 @@
                 "archived": false,
                 "id": 38312905,
                 "language": "C++",
-                "last_commit": "2026-08-26T16:40:49Z",
+                "last_commit": "2026-08-27T17:20:46Z",
                 "owner": "pcraster",
                 "repo": "pcraster",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -296,7 +314,8 @@
                 "owner": "UtrechtUniversity",
                 "repo": "ricgraph",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -311,7 +330,8 @@
                 "owner": "snijderlab",
                 "repo": "stitch",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -326,7 +346,8 @@
                 "owner": "iBridges-for-iRODS",
                 "repo": "iBridges",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -341,7 +362,8 @@
                 "owner": "sodascience",
                 "repo": "osmenrich",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -356,7 +378,8 @@
                 "owner": "iBridges-for-iRODS",
                 "repo": "iBridges-GUI",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -371,7 +394,8 @@
                 "owner": "computationalgeography",
                 "repo": "lue",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -386,7 +410,8 @@
                 "owner": "MartinSchobben",
                 "repo": "oceanexplorer",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -401,7 +426,8 @@
                 "owner": "cjvanlissa",
                 "repo": "bain",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -416,7 +442,8 @@
                 "owner": "MindTheGap-ERC",
                 "repo": "admtools",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -431,7 +458,8 @@
                 "owner": "nielsjdewinter",
                 "repo": "ShellChron",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -446,7 +474,8 @@
                 "owner": "MindTheGap-ERC",
                 "repo": "StratPal",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             }
           ],
           "description": "Software developed by researchers and employees of Utrecht University. The software in this list is installable and can be used in new or existing research projects or courses.",
@@ -468,7 +497,8 @@
                 "owner": "J535D165",
                 "repo": "CoronaWatchNL",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -483,7 +513,8 @@
                 "owner": "D-score",
                 "repo": "childdevdata",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             }
           ],
           "description": "Research data stored in git repositories.",
@@ -505,7 +536,8 @@
                 "owner": "cjvanlissa",
                 "repo": "worcs",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -519,8 +551,9 @@
                 "last_commit": "2025-07-31T19:53:51Z",
                 "owner": "UtrechtUniversity",
                 "repo": "UU-dissertation-template",
-                "stars": 22
-              }
+                "stars": 23
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -535,7 +568,8 @@
                 "owner": "UtrechtUniversity",
                 "repo": "uu-quarto-presentation-template",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -550,7 +584,8 @@
                 "owner": "joszuijderwijk",
                 "repo": "beamer-uu",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -565,7 +600,8 @@
                 "owner": "SanliFaez",
                 "repo": "labphew",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             }
           ],
           "description": "Tools for research project management, data management, software management, and lab tools.",
@@ -587,7 +623,8 @@
                 "owner": "UtrechtUniversity",
                 "repo": "workshop-introduction-to-R-and-data",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -598,11 +635,12 @@
                 "archived": false,
                 "id": 682478059,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:15:12Z",
+                "last_commit": "2026-08-27T16:43:05Z",
                 "owner": "Parcels-code",
                 "repo": "virtualship",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -617,7 +655,8 @@
                 "owner": "hugoquene",
                 "repo": "QMS-EN",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -632,7 +671,8 @@
                 "owner": "UtrechtUniversity",
                 "repo": "ShinyEducation",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -647,7 +687,8 @@
                 "owner": "MindTheGap-ERC",
                 "repo": "DarwinCAT",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             },
             {
               "node_type": "item",
@@ -662,7 +703,8 @@
                 "owner": "MindTheGap-ERC",
                 "repo": "ShellbedCondensator",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
             }
           ],
           "description": "Open teaching materials are guidelines, tutorials or any other educational material. Where to discover further resources relevant for UU research like books, podcasts, additional websites and newsletters.",
@@ -674,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:09:05.104Z",
+    "last_updated": "2026-08-28T04:27:56.055Z",
     "original_repository_info": {
       "archived": false,
       "id": 386910250,

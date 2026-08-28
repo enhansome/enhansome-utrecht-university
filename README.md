@@ -2,7 +2,7 @@
 
 # Awesome Utrecht University with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,368 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,597 | 🐛 105 | 📅 2026-08-21
 
 A curated list of awesome research code, software, manuals, and more on Git, developed by [**Utrecht University**](https://uu.nl) researchers, students, and employees. The list can be your starting point to find interesting UU projects, and get inpired and learn from other projects. Is your project also "awesome"? Add it to this list (see [Contributing](CONTRIBUTING.md)).
 
@@ -55,13 +55,13 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 
 *Software developed by researchers and employees of Utrecht University. The software in this list is installable and can be used in new or existing research projects or courses.*
 
-* [recordlinkage](https://github.com/J535D165/recordlinkage) ⭐ 1,060 | 🐛 64 | 🌐 Python | 📅 2024-02-21 - A toolkit for record linkage and duplicate detection in Python
-* [asreview](https://github.com/asreview/asreview) ⭐ 983 | 🐛 111 | 🌐 Python | 📅 2026-08-25 - Active learning for systematic reviews
+* [recordlinkage](https://github.com/J535D165/recordlinkage) ⭐ 1,061 | 🐛 64 | 🌐 Python | 📅 2024-02-21 - A toolkit for record linkage and duplicate detection in Python
+* [asreview](https://github.com/asreview/asreview) ⭐ 985 | 🐛 111 | 🌐 Python | 📅 2026-08-25 - Active learning for systematic reviews
 * [mice](https://github.com/amices/mice) ⭐ 516 | 🐛 30 | 🌐 R | 📅 2026-07-07 - Multivariate Imputation by Chained Equations
   * [ggmice](https://github.com/amices/ggmice) ⭐ 35 | 🐛 58 | 🌐 R | 📅 2026-08-10 - Visualize incomplete and imputed data with the R package `ggmice`
 * [pdb-tools](https://github.com/haddocking/pdb-tools) ⭐ 457 | 🐛 4 | 🌐 Python | 📅 2026-06-10 - A dependency-free cross-platform swiss army knife for PDB files.
-* [parcels](https://github.com/OceanParcels/parcels) ⭐ 358 | 🐛 132 | 🌐 Python | 📅 2026-08-25 - Main code for Parcels (Probably A Really Computationally Efficient Lagrangian Simulator)
-* [PCRaster](https://github.com/pcraster/pcraster) ⭐ 99 | 🐛 84 | 🌐 C++ | 📅 2026-08-26 - Environmental modeling software
+* [parcels](https://github.com/OceanParcels/parcels) ⭐ 358 | 🐛 127 | 🌐 Python | 📅 2026-08-28 - Main code for Parcels (Probably A Really Computationally Efficient Lagrangian Simulator)
+* [PCRaster](https://github.com/pcraster/pcraster) ⭐ 99 | 🐛 84 | 🌐 C++ | 📅 2026-08-27 - Environmental modeling software
 * [Ricgraph](https://github.com/UtrechtUniversity/ricgraph) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2026-07-08 - With Ricgraph, you can create a graph from research information that is stored in various source systems. You can explore this graph and discover relations you were not aware of. For code, extensive documentation and videos follow the link.
 * [Stitch](https://github.com/snijderlab/stitch) ⭐ 32 | 🐛 22 | 🌐 C# | 📅 2024-10-15 - A program for de novo sequencing of antibodies/proteins based on massspectrometry data.
 * [iBridges](https://github.com/UtrechtUniversity/iBridges) ⭐ 21 | 🐛 10 | 🌐 Python | 📅 2026-08-27 - Python API and commandline interface to easily interact with Yoda and iRODS servers
@@ -88,7 +88,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 *Tools for research project management, data management, software management, and lab tools.*
 
 * [worcs](https://github.com/cjvanlissa/worcs) ⭐ 89 | 🐛 40 | 🌐 HTML | 📅 2026-03-27 - Rstudio project template and convenience functions for the Workflow for Open Reproducible Code in Science (WORCS)
-* [UU-dissertation-template](https://github.com/UtrechtUniversity/UU-dissertation-template) ⭐ 22 | 🐛 5 | 🌐 TeX | 📅 2025-07-31 - a Utrecht University dissertation template for LaTeX.
+* [UU-dissertation-template](https://github.com/UtrechtUniversity/UU-dissertation-template) ⭐ 23 | 🐛 5 | 🌐 TeX | 📅 2025-07-31 - a Utrecht University dissertation template for LaTeX.
 * [uu-quarto-presentation-template](https://github.com/UtrechtUniversity/uu-quarto-presentation-template) ⭐ 13 | 🐛 1 | 🌐 SCSS | 📅 2025-10-29 - a Utrecht University template for presentations using Quarto.
 * [beamer-uu](https://github.com/joszuijderwijk/beamer-uu) ⭐ 8 | 🐛 0 | 🌐 TeX | 📅 2026-05-14 - a Utrecht University template for presentations using LaTeX beamer.
 * [labphew](https://github.com/SanliFaez/labphew) ⭐ 3 | 🐛 3 | 🌐 Python | 📅 2022-09-18 - a minimalist functioning code module and folder structure, built to teach and exercise with computer-controlled measurements using Python.
@@ -122,7 +122,7 @@ Do you know about a project that should be in the Awesome Utrecht University lis
 
 ### What is an Awesome list?
 
-"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see <https://github.com/sindresorhus/awesome> ⭐ 500,368 | 🐛 105 | 📅 2026-08-21). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 500,368 | 🐛 105 | 📅 2026-08-21 for more information about awesome lists.
+"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see <https://github.com/sindresorhus/awesome> ⭐ 500,597 | 🐛 105 | 📅 2026-08-21). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 500,597 | 🐛 105 | 📅 2026-08-21 for more information about awesome lists.
 
 ### Initial project collection
 
@@ -150,4 +150,4 @@ Are you a Utrecht University researcher looking for support on making your resea
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
