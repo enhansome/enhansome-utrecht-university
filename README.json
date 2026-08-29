@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2021] Code for approximated exponential maximum pooling ",
+                "homepage": null,
                 "id": 312540762,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-27T16:00:09Z",
+                "open_issues": 7,
                 "owner": "alexandrosstergiou",
                 "repo": "SoftPool",
-                "stars": 300
+                "stars": 300,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PCR-GLOBWB (PCRaster Global Water Balance) is a large-scale hydrological model intended for global to regional studies and developed at the Department of Physical Geography, Utrecht University (Netherlands). Contact: Edwin Sutanudjaja (E.H.Sutanudjaja@uu.nl).",
+                "homepage": null,
                 "id": 65918451,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-06T12:35:35Z",
+                "open_issues": 26,
                 "owner": "UU-Hydro",
                 "repo": "PCR-GLOBWB_model",
-                "stars": 148
+                "stars": 148,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -44,12 +54,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for : [Pattern Recognit. Lett. 2021] \"Learn to cycle: Time-consistent feature discovery for action recognition\" and [IJCNN 2021] \"Multi-Temporal Convolutions for Human Action Recognition in Videos\".",
+                "homepage": null,
                 "id": 265185396,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-31T07:58:15Z",
+                "open_issues": 1,
                 "owner": "alexandrosstergiou",
                 "repo": "Squeeze-and-Recursion-Temporal-Gates",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "3d-cnn",
+                  "action-recognition",
+                  "activity-recognition",
+                  "hacs",
+                  "kinetics-datasets",
+                  "moments-in-time",
+                  "pytorch",
+                  "recursion-temporal-gates",
+                  "spatio-temporal-modeling"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -60,12 +85,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[ICIP 2019] Implementation of Saliency Tubes for 3D Convolutions in Pytoch and Keras to localise the focus spatio-temporal regions of 3D CNNs.",
+                "homepage": null,
                 "id": 154811083,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-04-02T07:19:13Z",
+                "open_issues": 0,
                 "owner": "alexandrosstergiou",
                 "repo": "Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "3d-cnn",
+                  "3d-convolutional-network",
+                  "keras",
+                  "pytorch",
+                  "saliency-tubes",
+                  "visualisations"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -76,12 +113,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contrastive Explanation (Foil Trees), developed at TNO/Utrecht University",
+                "homepage": null,
                 "id": 140291555,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-01-31T12:03:11Z",
+                "open_issues": 2,
                 "owner": "MarcelRobeer",
                 "repo": "ContrastiveExplanation",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "contrastive-explanations",
+                  "explainable-ai",
+                  "foil",
+                  "interpretability",
+                  "machine-learning",
+                  "model-agnostic"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -92,12 +141,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The GeoNewsMiner (GNM): An interactive spatial humanities tool to visualize geographical references in historical newspapers",
+                "homepage": null,
                 "id": 207253622,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2022-02-21T13:52:55Z",
+                "open_issues": 0,
                 "owner": "lorellav",
                 "repo": "GeoNewsMiner",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "geographical-references",
+                  "historical-newspapers",
+                  "spatial-humanities",
+                  "utrecht-university"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -108,12 +167,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notebooks of the PuReGoMe Project of the Netherlands eScience Center and Utrecht University.",
+                "homepage": "https://research-software-directory.org/projects/puregome",
                 "id": 256566641,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-20T10:24:13Z",
+                "open_issues": 0,
                 "owner": "puregome",
                 "repo": "notebooks",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "covid-19",
+                  "tweets",
+                  "twitter"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -124,12 +192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo containing all the R code to do the data processing and create figures as descibed in the accompanying paper on the clumped isotope composition of lab-grown aragonitic Arctica islandica shells",
+                "homepage": null,
                 "id": 452251053,
                 "language": "R",
+                "license": "MIT",
                 "last_commit": "2022-07-20T07:19:51Z",
+                "open_issues": 0,
                 "owner": "nielsjdewinter",
                 "repo": "Aragonite_clumped",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -140,12 +213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolbox for seasonal temperature reconstructions using clumped isotope analyses",
+                "homepage": null,
                 "id": 319622744,
                 "language": "R",
+                "license": "MIT",
                 "last_commit": "2022-03-10T07:52:03Z",
+                "open_issues": 0,
                 "owner": "nielsjdewinter",
                 "repo": "seasonalclumped",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -156,12 +234,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simulation and plotting code for \"Optimizing the use of carbonate standards to minimize uncertainties in clumped isotope data\"",
+                "homepage": null,
                 "id": 204010171,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2023-04-26T22:27:55Z",
+                "open_issues": 0,
                 "owner": "japhir",
                 "repo": "stdstats",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -172,12 +255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diffusion-Advection model for leaching of trace elements into enamel",
+                "homepage": null,
                 "id": 119502959,
                 "language": "R",
+                "license": "MIT",
                 "last_commit": "2022-01-28T15:31:29Z",
+                "open_issues": 1,
                 "owner": "nielsjdewinter",
                 "repo": "DA_model",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             }
@@ -195,12 +283,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful and modular toolkit for record linkage and duplicate detection in Python",
+                "homepage": "http://recordlinkage.readthedocs.io/",
                 "id": 44471657,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-02-21T18:15:38Z",
+                "open_issues": 64,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1062
+                "stars": 1062,
+                "topics": [
+                  "data-matching",
+                  "dedupe",
+                  "deduplication",
+                  "entity-resolution",
+                  "machine-learning",
+                  "privacy",
+                  "python",
+                  "python-library",
+                  "record-linkage",
+                  "similarity",
+                  "string-distance",
+                  "utrecht-university"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -211,12 +317,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Active learning for systematic reviews",
+                "homepage": "https://asreview.ai",
                 "id": 164874894,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T21:40:13Z",
+                "open_issues": 113,
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 989
+                "stars": 989,
+                "topics": [
+                  "active-learning",
+                  "asreview",
+                  "deep-learning",
+                  "language-model",
+                  "learning-algorithms",
+                  "literature",
+                  "llm",
+                  "natural-language-processing",
+                  "neural-network",
+                  "research",
+                  "systematic-literature-reviews",
+                  "systematic-reviews",
+                  "utrecht-university"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -232,24 +357,51 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Visualize incomplete and imputed data with the R package `ggmice`",
+                    "homepage": "http://amices.org/ggmice",
                     "id": 458169375,
                     "language": "R",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-10T00:57:45Z",
+                    "open_issues": 58,
                     "owner": "amices",
                     "repo": "ggmice",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "cran",
+                      "ggplot2",
+                      "mice",
+                      "r",
+                      "r-package",
+                      "rstats",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:27:56.055Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Multivariate Imputation by Chained Equations",
+                "homepage": "https://amices.org/mice/",
                 "id": 8910139,
                 "language": "R",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-07T08:10:10Z",
+                "open_issues": 30,
                 "owner": "amices",
                 "repo": "mice",
-                "stars": 517
+                "stars": 517,
+                "topics": [
+                  "chained-equations",
+                  "fcs",
+                  "imputation",
+                  "mice",
+                  "missing-data",
+                  "missing-values",
+                  "multiple-imputation",
+                  "multivariate-data"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -260,12 +412,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dependency-free cross-platform swiss army knife for PDB files.",
+                "homepage": "https://haddocking.github.io/pdb-tools/",
                 "id": 27217350,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-10T05:01:05Z",
+                "open_issues": 4,
                 "owner": "haddocking",
                 "repo": "pdb-tools",
-                "stars": 457
+                "stars": 457,
+                "topics": [
+                  "bioinformatics",
+                  "pdb",
+                  "protein",
+                  "python",
+                  "rcsb",
+                  "structural-bioinformatics",
+                  "structural-biology",
+                  "utrecht-university"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -276,12 +442,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Main code for Parcels - a highly customisable Lagrangian simulation framework",
+                "homepage": "https://parcels-code.org",
                 "id": 43358723,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:46:18Z",
+                "open_issues": 128,
                 "owner": "Parcels-code",
                 "repo": "Parcels",
-                "stars": 359
+                "stars": 359,
+                "topics": [
+                  "lagrangian-ocean-modelling",
+                  "ocean-circulation-models",
+                  "particles"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -292,12 +467,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Environmental modeling software",
+                "homepage": "http://www.pcraster.eu",
                 "id": 38312905,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T17:20:46Z",
+                "open_issues": 84,
                 "owner": "pcraster",
                 "repo": "pcraster",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "computational-geography",
+                  "cpp",
+                  "earth-science",
+                  "hydrology",
+                  "map-algebra",
+                  "modflow",
+                  "python",
+                  "simulation",
+                  "spatio-temporal-modeling"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -308,12 +498,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ricgraph - Research in context graph",
+                "homepage": null,
                 "id": 587441886,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-08T12:24:43Z",
+                "open_issues": 0,
                 "owner": "UtrechtUniversity",
                 "repo": "ricgraph",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "data-enrichment",
+                  "data-harvesting",
+                  "data-linking",
+                  "enrichment",
+                  "graph",
+                  "graph-database",
+                  "harvest",
+                  "harvest-data",
+                  "harvester",
+                  "knowledge-graph",
+                  "linked-data",
+                  "metadata",
+                  "research-in-context-graph",
+                  "ricgraph",
+                  "ricgraph-explorer",
+                  "ricgraph-rest-api",
+                  "utrecht-university",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -324,12 +538,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Template-based assembly of proteomics short reads for de novo antibody sequencing and repertoire profiling",
+                "homepage": null,
                 "id": 433791646,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-10-15T11:26:17Z",
+                "open_issues": 22,
                 "owner": "snijderlab",
                 "repo": "stitch",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "antibody",
+                  "mass-spectrometry",
+                  "sequencing"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -340,12 +563,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A wrapper around the python-irodsclient to allow for easy interaction with iRODS servers.",
+                "homepage": "https://ibridges.readthedocs.io/en/",
                 "id": 724112706,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:54:16Z",
+                "open_issues": 10,
                 "owner": "iBridges-for-iRODS",
                 "repo": "iBridges",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "data-analysis",
+                  "data-engineering",
+                  "data-science",
+                  "datascience",
+                  "irods-client"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -356,12 +590,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enrich sf data with geographic features from OpenStreetMaps.",
+                "homepage": "https://sodascience.github.io/osmenrich/",
                 "id": 337555188,
                 "language": "R",
+                "license": "MIT",
                 "last_commit": "2021-12-21T22:35:18Z",
+                "open_issues": 4,
                 "owner": "sodascience",
                 "repo": "osmenrich",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "geospatial",
+                  "geospatial-data",
+                  "odissei",
+                  "osm",
+                  "sf",
+                  "utrecht-university"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -372,12 +618,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A graphical user interface to iRODS employing the iBridges python package.",
+                "homepage": "https://ibridges-for-irods.github.io/iBridges-GUI/",
                 "id": 428990798,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-11T08:13:17Z",
+                "open_issues": 5,
                 "owner": "iBridges-for-iRODS",
                 "repo": "iBridges-GUI",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "data-visualization",
+                  "datascience",
+                  "graphical-user-interface",
+                  "irods-client"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -388,12 +644,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LUE Scientific Database and Environmental Modelling Framework",
+                "homepage": "https://lue.computationalgeography.org",
                 "id": 61718900,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-20T17:32:57Z",
+                "open_issues": 244,
                 "owner": "computationalgeography",
                 "repo": "lue",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "amt",
+                  "asynchronous-tasks",
+                  "cartographic-modelling",
+                  "computational-geography",
+                  "distributed-computing",
+                  "environmental-modelling",
+                  "gis",
+                  "hpc",
+                  "lue",
+                  "map-algebra",
+                  "parallel-computing",
+                  "scientific-database"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -404,12 +678,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy exploration of the NOAA world ocean atlas",
+                "homepage": "https://martinschobben.github.io/oceanexplorer/",
                 "id": 441203134,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-30T12:32:19Z",
+                "open_issues": 1,
                 "owner": "MartinSchobben",
                 "repo": "oceanexplorer",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "earth",
+                  "earth-observation",
+                  "earth-science",
+                  "noaa",
+                  "noaa-data",
+                  "ocean",
+                  "ocean-sciences",
+                  "oceanography",
+                  "open-data",
+                  "r",
+                  "r-package",
+                  "rstats",
+                  "shiny",
+                  "spatial",
+                  "spatial-analysis",
+                  "spatial-data"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -420,12 +716,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bayes Factors for Informative Hypotheses",
+                "homepage": null,
                 "id": 154496783,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-14T13:54:45Z",
+                "open_issues": 13,
                 "owner": "cjvanlissa",
                 "repo": "bain",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -436,12 +737,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Estimate Age-Depth Models and Transform Data",
+                "homepage": "https://mindthegap-erc.github.io/admtools/",
                 "id": 600476509,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-24T11:08:54Z",
+                "open_issues": 6,
                 "owner": "MindTheGap-ERC",
                 "repo": "admtools",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "age-depth-model",
+                  "geochronology",
+                  "sedimentology",
+                  "stratigraphy"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -452,12 +763,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ShellChron",
+                "homepage": null,
                 "id": 303992660,
                 "language": "R",
+                "license": "MIT",
                 "last_commit": "2022-08-18T13:59:18Z",
+                "open_issues": 3,
                 "owner": "nielsjdewinter",
                 "repo": "ShellChron",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -468,12 +784,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package for Stratigraphic Paleobiology",
+                "homepage": "https://mindthegap-erc.github.io/StratPal/",
                 "id": 828433860,
                 "language": "R",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T10:55:50Z",
+                "open_issues": 1,
                 "owner": "MindTheGap-ERC",
                 "repo": "StratPal",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "palaeobiology",
+                  "palaeontology",
+                  "paleobiology",
+                  "paleontology",
+                  "stratigraphic-paleobiology",
+                  "stratigraphy"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             }
@@ -491,12 +819,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Numbers concerning COVID-19 disease cases in The Netherlands by RIVM, LCPS, NICE, ECML, and Rijksoverheid. ",
+                "homepage": null,
                 "id": 245529325,
                 "language": "Jupyter Notebook",
+                "license": "CC0-1.0",
                 "last_commit": "2021-04-18T08:50:38Z",
+                "open_issues": 0,
                 "owner": "J535D165",
                 "repo": "CoronaWatchNL",
-                "stars": 140
+                "stars": 140,
+                "topics": [
+                  "coronavirus",
+                  "coronavirus-globaloutbreak",
+                  "coronavirus-real-time",
+                  "coronavirus-tracking",
+                  "covid-19",
+                  "covid19-data",
+                  "covid19-dataset",
+                  "dataset",
+                  "json-api",
+                  "netherlands",
+                  "rivm",
+                  "utrecht-university"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -507,12 +853,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Child Development Data",
+                "homepage": "https://d-score.org/childdevdata",
                 "id": 353137452,
                 "language": "R",
+                "license": "CC-BY-4.0",
                 "last_commit": "2023-04-18T14:03:10Z",
+                "open_issues": 0,
                 "owner": "D-score",
                 "repo": "childdevdata",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "child-development",
+                  "d-score",
+                  "dataset"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             }
@@ -530,12 +885,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rstudio project template and convenience functions for the Workflow     for Open Reproducible Code in Science (WORCS)",
+                "homepage": "https://cjvanlissa.github.io/worcs/",
                 "id": 233225757,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-27T12:37:34Z",
+                "open_issues": 40,
                 "owner": "cjvanlissa",
                 "repo": "worcs",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -546,12 +906,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a Utrecht University dissertation template for LaTeX",
+                "homepage": null,
                 "id": 623909637,
                 "language": "TeX",
+                "license": "MIT",
                 "last_commit": "2025-07-31T19:53:51Z",
+                "open_issues": 5,
                 "owner": "UtrechtUniversity",
                 "repo": "UU-dissertation-template",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "dissertation-template",
+                  "latex-template",
+                  "phd-thesis-template",
+                  "utrecht-university"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -562,12 +932,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Template repository for creating a UU styled Quarto presentation",
+                "homepage": "https://utrechtuniversity.github.io/uu-quarto-presentation-template/uu_template",
                 "id": 535683685,
                 "language": "SCSS",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-29T10:25:38Z",
+                "open_issues": 1,
                 "owner": "UtrechtUniversity",
                 "repo": "uu-quarto-presentation-template",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "quarto",
+                  "quarto-template",
+                  "utrecht-university"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -578,12 +957,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An unofficial beamer theme for Utrecht University.",
+                "homepage": "https://www.overleaf.com/latex/templates/utrecht-university-beamer-template/srfwgqcwqncf",
                 "id": 1180043198,
                 "language": "TeX",
+                "license": "LPPL-1.3c",
                 "last_commit": "2026-05-14T15:31:34Z",
+                "open_issues": 0,
                 "owner": "joszuijderwijk",
                 "repo": "beamer-uu",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "beamer",
+                  "beamer-template",
+                  "latex-template"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -594,12 +982,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a minimalist functioning code module and folder structure, built to teach and exercise with computer-controlled measurements using Python.",
+                "homepage": "https://labphew.readthedocs.io/",
                 "id": 288410124,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-09-18T18:06:18Z",
+                "open_issues": 3,
                 "owner": "SanliFaez",
                 "repo": "labphew",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "automation",
+                  "experiment-design",
+                  "instrumentation",
+                  "laboratory-automation",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             }
@@ -617,12 +1016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material for the workshop 'Introduction to R & data'",
+                "homepage": "https://utrechtuniversity.github.io/workshop-introduction-to-R-and-data/",
                 "id": 151564918,
                 "language": "HTML",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-05-18T13:50:34Z",
+                "open_issues": 5,
                 "owner": "UtrechtUniversity",
                 "repo": "workshop-introduction-to-R-and-data",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -633,12 +1037,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authentic tool and teaching material about sea-based research",
+                "homepage": "https://virtualship.parcels-code.org",
                 "id": 682478059,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:03:54Z",
+                "open_issues": 35,
                 "owner": "Parcels-code",
                 "repo": "virtualship",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "virtual-fieldwork"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -649,12 +1060,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Textbook on Quantitative Methods and Statistics (English version, EN), available at https://hugoquene.github.io/QMS-EN/ ",
+                "homepage": null,
                 "id": 302428530,
                 "language": "TeX",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-20T15:54:58Z",
+                "open_issues": 2,
                 "owner": "hugoquene",
                 "repo": "QMS-EN",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "quantitative-methods",
+                  "statistics",
+                  "statistics-course",
+                  "statistics-learning",
+                  "textbook",
+                  "utrecht-university"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -665,12 +1088,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A website that will provide an overview of all the educational shiny apps",
+                "homepage": null,
                 "id": 513165763,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2023-06-15T15:00:42Z",
+                "open_issues": 0,
                 "owner": "UtrechtUniversity",
                 "repo": "ShinyEducation",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -681,12 +1109,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shiny app visualizing the effects of carbonate stratigraphy on trait evolution ",
+                "homepage": null,
                 "id": 586220362,
                 "language": "R",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-03T12:31:33Z",
+                "open_issues": 0,
                 "owner": "MindTheGap-ERC",
                 "repo": "DarwinCAT",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "carbonate-sedimentology",
+                  "evolutionary-biology",
+                  "geology",
+                  "palaeobiology",
+                  "palaeontology",
+                  "paleontology",
+                  "r",
+                  "sedimentology",
+                  "shiny",
+                  "stratigraphic-paleobiology",
+                  "stratigraphy",
+                  "trait-evolution"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             },
@@ -697,12 +1143,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shiny app visualizing the effects of sedimentary condensation",
+                "homepage": null,
                 "id": 596550930,
                 "language": "R",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-03T12:34:32Z",
+                "open_issues": 1,
                 "owner": "MindTheGap-ERC",
                 "repo": "ShellbedCondensator",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "geology",
+                  "palaeobiology",
+                  "palaeontology",
+                  "paleobiology",
+                  "paleontology",
+                  "r",
+                  "sedimentology",
+                  "shiny",
+                  "taphonomy"
+                ]
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
             }
@@ -716,15 +1177,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:54:28.391Z",
+    "last_updated": "2026-08-29T05:04:38.168Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome open source projects from Utrecht University. ",
+      "homepage": "https://utrechtuniversity.github.io/awesome-utrecht-university/",
       "id": 386910250,
       "language": "Python",
+      "license": "CC-BY-4.0",
       "last_commit": "2026-06-29T07:15:04Z",
+      "open_issues": 1,
       "owner": "UtrechtUniversity",
       "repo": "awesome-utrecht-university",
-      "stars": 58
+      "stars": 58,
+      "topics": [
+        "awesome-list",
+        "documentation",
+        "open-data",
+        "open-science",
+        "research",
+        "university",
+        "utrecht-university"
+      ]
     },
     "original_repository_sha": "c8953426c5c8233af028017444c0d99675b94cdb",
     "enhanced_repository": "enhansome/enhansome-utrecht-university",
