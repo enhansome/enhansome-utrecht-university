@@ -326,7 +326,7 @@
                 "open_issues": 113,
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 1001,
+                "stars": 1002,
                 "topics": [
                   "active-learning",
                   "asreview",
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:30:46.396Z",
+    "last_updated": "2026-09-05T22:14:54.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
@@ -1189,7 +1189,7 @@
       "open_issues": 2,
       "owner": "UtrechtUniversity",
       "repo": "awesome-utrecht-university",
-      "stars": 58,
+      "stars": 59,
       "topics": [
         "awesome-list",
         "documentation",
