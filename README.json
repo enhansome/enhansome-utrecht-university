@@ -323,7 +323,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T03:00:12Z",
-                "open_issues": 115,
+                "open_issues": 116,
                 "owner": "asreview",
                 "repo": "asreview",
                 "stars": 1006,
@@ -447,8 +447,8 @@
                 "id": 43358723,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T13:32:34Z",
-                "open_issues": 113,
+                "last_commit": "2026-09-11T07:10:51Z",
+                "open_issues": 115,
                 "owner": "Parcels-code",
                 "repo": "Parcels",
                 "stars": 363,
@@ -472,7 +472,7 @@
                 "id": 38312905,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-10T18:06:56Z",
+                "last_commit": "2026-09-11T17:06:28Z",
                 "open_issues": 84,
                 "owner": "pcraster",
                 "repo": "pcraster",
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T22:45:19.864Z",
+    "last_updated": "2026-09-11T22:46:12.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
