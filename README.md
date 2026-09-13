@@ -2,7 +2,7 @@
 
 # Awesome Utrecht University with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,441 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,752 | 🐛 106 | 📅 2026-09-02
 
 A curated list of awesome research code, software, manuals, and more on Git, developed by [**Utrecht University**](https://uu.nl) researchers, students, and employees. The list can be your starting point to find interesting UU projects, and get inpired and learn from other projects. Is your project also "awesome"? Add it to this list (see [Contributing](CONTRIBUTING.md)).
 
@@ -122,7 +122,7 @@ Do you know about a project that should be in the Awesome Utrecht University lis
 
 ### What is an Awesome list?
 
-"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see <https://github.com/sindresorhus/awesome> ⭐ 505,441 | 🐛 106 | 📅 2026-09-02). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 505,441 | 🐛 106 | 📅 2026-09-02 for more information about awesome lists.
+"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see <https://github.com/sindresorhus/awesome> ⭐ 505,752 | 🐛 106 | 📅 2026-09-02). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 505,752 | 🐛 106 | 📅 2026-09-02 for more information about awesome lists.
 
 ### Initial project collection
 
@@ -150,4 +150,4 @@ Are you a Utrecht University researcher looking for support on making your resea
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
