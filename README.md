@@ -2,7 +2,7 @@
 
 # Awesome Utrecht University with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,752 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,061 | 🐛 106 | 📅 2026-09-02
 
 A curated list of awesome research code, software, manuals, and more on Git, developed by [**Utrecht University**](https://uu.nl) researchers, students, and employees. The list can be your starting point to find interesting UU projects, and get inpired and learn from other projects. Is your project also "awesome"? Add it to this list (see [Contributing](CONTRIBUTING.md)).
 
@@ -40,7 +40,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 *Research projects with supplementing code stored on online Git repositories.*
 
 * [SoftPool](https://github.com/alexandrosstergiou/SoftPool) ⭐ 300 | 🐛 7 | 🌐 Python | 📅 2023-01-27 - Code for approximated exponential maximum pooling.
-* [PCR-GLOBWB\_model](https://github.com/UU-Hydro/PCR-GLOBWB_model) ⭐ 148 | 🐛 27 | 🌐 Python | 📅 2026-08-06 - PCR-GLOBWB (PCRaster Global Water Balance) is a large-scale hydrological model intended for global to regional studies and developed at the Department of Physical Geography.
+* [PCR-GLOBWB\_model](https://github.com/UU-Hydro/PCR-GLOBWB_model) ⭐ 148 | 🐛 26 | 🌐 Python | 📅 2026-09-14 - PCR-GLOBWB (PCRaster Global Water Balance) is a large-scale hydrological model intended for global to regional studies and developed at the Department of Physical Geography.
 * [Squeeze-and-Recursion-Temporal-Gates](https://github.com/alexandrosstergiou/Squeeze-and-Recursion-Temporal-Gates) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2022-08-31 - Code for : \[Pattern Recognit. Lett. 2020] "Learn to cycle: Time-consistent feature discovery for action recognition" and \[arXiv] "Right on Time: Multi-Temporal Convolutions for Human Action Recognition in Videos".
 * [Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions) ⚠️ Archived - Implementation of Saliency Tubes for 3D Convolutions in Pytoch and Keras to localise the focus spatio-temporal regions of 3D CNNs.
 * [ContrastiveExplanation](https://github.com/MarcelRobeer/ContrastiveExplanation) ⭐ 45 | 🐛 2 | 🌐 Python | 📅 2023-01-31 - Contrastive Explanation (Foil Trees), developed at TNO/Utrecht University
@@ -56,12 +56,12 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 *Software developed by researchers and employees of Utrecht University. The software in this list is installable and can be used in new or existing research projects or courses.*
 
 * [recordlinkage](https://github.com/J535D165/recordlinkage) ⭐ 1,062 | 🐛 64 | 🌐 Python | 📅 2024-02-21 - A toolkit for record linkage and duplicate detection in Python
-* [asreview](https://github.com/asreview/asreview) ⭐ 1,006 | 🐛 116 | 🌐 Python | 📅 2026-09-10 - Active learning for systematic reviews
+* [asreview](https://github.com/asreview/asreview) ⭐ 1,006 | 🐛 116 | 🌐 Python | 📅 2026-09-14 - Active learning for systematic reviews
 * [mice](https://github.com/amices/mice) ⭐ 518 | 🐛 32 | 🌐 R | 📅 2026-07-07 - Multivariate Imputation by Chained Equations
   * [ggmice](https://github.com/amices/ggmice) ⭐ 35 | 🐛 58 | 🌐 R | 📅 2026-08-10 - Visualize incomplete and imputed data with the R package `ggmice`
 * [pdb-tools](https://github.com/haddocking/pdb-tools) ⭐ 456 | 🐛 4 | 🌐 Python | 📅 2026-06-10 - A dependency-free cross-platform swiss army knife for PDB files.
-* [parcels](https://github.com/OceanParcels/parcels) ⭐ 363 | 🐛 115 | 🌐 Python | 📅 2026-09-11 - Main code for Parcels (Probably A Really Computationally Efficient Lagrangian Simulator)
-* [PCRaster](https://github.com/pcraster/pcraster) ⭐ 99 | 🐛 84 | 🌐 C++ | 📅 2026-09-11 - Environmental modeling software
+* [parcels](https://github.com/OceanParcels/parcels) ⭐ 363 | 🐛 109 | 🌐 Python | 📅 2026-09-14 - Main code for Parcels (Probably A Really Computationally Efficient Lagrangian Simulator)
+* [PCRaster](https://github.com/pcraster/pcraster) ⭐ 99 | 🐛 84 | 🌐 C++ | 📅 2026-09-14 - Environmental modeling software
 * [Ricgraph](https://github.com/UtrechtUniversity/ricgraph) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2026-09-10 - With Ricgraph, you can create a graph from research information that is stored in various source systems. You can explore this graph and discover relations you were not aware of. For code, extensive documentation and videos follow the link.
 * [Stitch](https://github.com/snijderlab/stitch) ⭐ 32 | 🐛 22 | 🌐 C# | 📅 2024-10-15 - A program for de novo sequencing of antibodies/proteins based on massspectrometry data.
 * [iBridges](https://github.com/UtrechtUniversity/iBridges) ⭐ 21 | 🐛 10 | 🌐 Python | 📅 2026-09-02 - Python API and commandline interface to easily interact with Yoda and iRODS servers
@@ -98,7 +98,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 *Open teaching materials are guidelines, tutorials or any other educational material. Where to discover further resources relevant for UU research like books, podcasts, additional websites and newsletters.*
 
 * [workshop-introduction-to-R-and-data](https://github.com/UtrechtUniversity/workshop-introduction-to-R-and-data) ⭐ 36 | 🐛 5 | 🌐 HTML | 📅 2026-05-18 - Material for the workshop 'Introduction to R & data' by [RDM Support](https://www.uu.nl/en/research/research-data-management)
-* [Virtual Ship](https://github.com/OceanParcels/virtualship) ⭐ 13 | 🐛 36 | 🌐 Python | 📅 2026-09-09 - a simulator allowing students to plan and conduct a virtual research expedition, receiving measurements as if they were coming from actual oceanographic instruments
+* [Virtual Ship](https://github.com/OceanParcels/virtualship) ⭐ 13 | 🐛 32 | 🌐 Python | 📅 2026-09-14 - a simulator allowing students to plan and conduct a virtual research expedition, receiving measurements as if they were coming from actual oceanographic instruments
 * [Textbook on Quantitative Methods and Statistics](https://github.com/hugoquene/QMS-EN) ⭐ 9 | 🐛 2 | 🌐 TeX | 📅 2026-03-20 Textbook on Quantitative Methods and Statistics aimed at humanities researchers and students [(English version, EN)](https://hugoquene.github.io/QMS-EN/) [(Dutch version, NL)](https://hugoquene.github.io/KMS-NL/)
 * [ShinyEducation](https://github.com/UtrechtUniversity/ShinyEducation) ⭐ 3 | 🐛 0 | 🌐 CSS | 📅 2023-06-15 The 'ShinyEducation' project at Utrecht University's Department of Methodology & Statistics uses interactive Shiny applications to explain statistical concepts. Applications cover topics like ANOVA, ANCOVA, t-tests, and correlation. This hands-on approach promotes immersive learning. Explore more [here](https://utrechtuniversity.github.io/ShinyEducation/).
 * [DarwinCAT](https://github.com/MindTheGap-ERC/DarwinCAT) ⭐ 2 | 🐛 0 | 🌐 R | 📅 2025-03-03 A Shiny web application to experiment and visualize how evolution is distorted by the geological record. Useful in teaching palaeobiology and evolutionary biology. Developed and used in courses at the Department of Earth Sciences, Utrecht University.
@@ -122,7 +122,7 @@ Do you know about a project that should be in the Awesome Utrecht University lis
 
 ### What is an Awesome list?
 
-"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see <https://github.com/sindresorhus/awesome> ⭐ 505,752 | 🐛 106 | 📅 2026-09-02). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 505,752 | 🐛 106 | 📅 2026-09-02 for more information about awesome lists.
+"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see <https://github.com/sindresorhus/awesome> ⭐ 506,061 | 🐛 106 | 📅 2026-09-02). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 506,061 | 🐛 106 | 📅 2026-09-02 for more information about awesome lists.
 
 ### Initial project collection
 
@@ -150,4 +150,4 @@ Are you a Utrecht University researcher looking for support on making your resea
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
