@@ -39,7 +39,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-14T14:51:25Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "UU-Hydro",
                 "repo": "PCR-GLOBWB_model",
                 "stars": 148,
@@ -323,7 +323,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-14T16:44:15Z",
-                "open_issues": 116,
+                "open_issues": 117,
                 "owner": "asreview",
                 "repo": "asreview",
                 "stars": 1006,
@@ -448,7 +448,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-14T20:33:09Z",
-                "open_issues": 109,
+                "open_issues": 112,
                 "owner": "Parcels-code",
                 "repo": "Parcels",
                 "stars": 363,
@@ -507,7 +507,7 @@
                 "open_issues": 0,
                 "owner": "UtrechtUniversity",
                 "repo": "ricgraph",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "data-enrichment",
                   "data-harvesting",
@@ -894,7 +894,7 @@
                 "open_issues": 40,
                 "owner": "cjvanlissa",
                 "repo": "worcs",
-                "stars": 89,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
@@ -1042,8 +1042,8 @@
                 "id": 682478059,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T20:33:35Z",
-                "open_issues": 32,
+                "last_commit": "2026-09-15T14:31:34Z",
+                "open_issues": 33,
                 "owner": "Parcels-code",
                 "repo": "virtualship",
                 "stars": 13,
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:25:38.363Z",
+    "last_updated": "2026-09-15T23:09:23.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
