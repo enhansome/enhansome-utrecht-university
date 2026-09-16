@@ -292,7 +292,7 @@
                 "open_issues": 64,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1062,
+                "stars": 1061,
                 "topics": [
                   "data-matching",
                   "dedupe",
@@ -323,10 +323,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-14T16:44:15Z",
-                "open_issues": 117,
+                "open_issues": 118,
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 1006,
+                "stars": 1007,
                 "topics": [
                   "active-learning",
                   "asreview",
@@ -472,7 +472,7 @@
                 "id": 38312905,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-14T18:40:04Z",
+                "last_commit": "2026-09-16T16:51:27Z",
                 "open_issues": 84,
                 "owner": "pcraster",
                 "repo": "pcraster",
@@ -649,7 +649,7 @@
                 "id": 61718900,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-07T08:39:07Z",
+                "last_commit": "2026-09-16T13:34:45Z",
                 "open_issues": 246,
                 "owner": "computationalgeography",
                 "repo": "lue",
@@ -1042,7 +1042,7 @@
                 "id": 682478059,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-15T14:31:34Z",
+                "last_commit": "2026-09-16T13:24:20Z",
                 "open_issues": 33,
                 "owner": "Parcels-code",
                 "repo": "virtualship",
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T23:09:23.314Z",
+    "last_updated": "2026-09-16T23:14:09.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
