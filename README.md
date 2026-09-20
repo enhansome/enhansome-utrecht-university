@@ -2,7 +2,7 @@
 
 # Awesome Utrecht University with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,863 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,237 | 🐛 106 | 📅 2026-09-02
 
 A curated list of awesome research code, software, manuals, and more on Git, developed by [**Utrecht University**](https://uu.nl) researchers, students, and employees. The list can be your starting point to find interesting UU projects, and get inpired and learn from other projects. Is your project also "awesome"? Add it to this list (see [Contributing](CONTRIBUTING.md)).
 
@@ -40,7 +40,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 *Research projects with supplementing code stored on online Git repositories.*
 
 * [SoftPool](https://github.com/alexandrosstergiou/SoftPool) ⭐ 300 | 🐛 7 | 🌐 Python | 📅 2023-01-27 - Code for approximated exponential maximum pooling.
-* [PCR-GLOBWB\_model](https://github.com/UU-Hydro/PCR-GLOBWB_model) ⭐ 148 | 🐛 28 | 🌐 Python | 📅 2026-09-14 - PCR-GLOBWB (PCRaster Global Water Balance) is a large-scale hydrological model intended for global to regional studies and developed at the Department of Physical Geography.
+* [PCR-GLOBWB\_model](https://github.com/UU-Hydro/PCR-GLOBWB_model) ⭐ 148 | 🐛 29 | 🌐 Python | 📅 2026-09-14 - PCR-GLOBWB (PCRaster Global Water Balance) is a large-scale hydrological model intended for global to regional studies and developed at the Department of Physical Geography.
 * [Squeeze-and-Recursion-Temporal-Gates](https://github.com/alexandrosstergiou/Squeeze-and-Recursion-Temporal-Gates) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2022-08-31 - Code for : \[Pattern Recognit. Lett. 2020] "Learn to cycle: Time-consistent feature discovery for action recognition" and \[arXiv] "Right on Time: Multi-Temporal Convolutions for Human Action Recognition in Videos".
 * [Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions) ⚠️ Archived - Implementation of Saliency Tubes for 3D Convolutions in Pytoch and Keras to localise the focus spatio-temporal regions of 3D CNNs.
 * [ContrastiveExplanation](https://github.com/MarcelRobeer/ContrastiveExplanation) ⭐ 45 | 🐛 2 | 🌐 Python | 📅 2023-01-31 - Contrastive Explanation (Foil Trees), developed at TNO/Utrecht University
@@ -122,7 +122,7 @@ Do you know about a project that should be in the Awesome Utrecht University lis
 
 ### What is an Awesome list?
 
-"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see <https://github.com/sindresorhus/awesome> ⭐ 507,863 | 🐛 106 | 📅 2026-09-02). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 507,863 | 🐛 106 | 📅 2026-09-02 for more information about awesome lists.
+"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see <https://github.com/sindresorhus/awesome> ⭐ 508,237 | 🐛 106 | 📅 2026-09-02). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 508,237 | 🐛 106 | 📅 2026-09-02 for more information about awesome lists.
 
 ### Initial project collection
 
@@ -150,4 +150,4 @@ Are you a Utrecht University researcher looking for support on making your resea
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

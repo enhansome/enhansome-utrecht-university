@@ -39,7 +39,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-14T14:51:25Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "UU-Hydro",
                 "repo": "PCR-GLOBWB_model",
                 "stars": 148,
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T22:28:23.286Z",
+    "last_updated": "2026-09-20T22:40:57.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
