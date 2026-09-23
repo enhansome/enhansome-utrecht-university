@@ -326,7 +326,7 @@
                 "open_issues": 118,
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 1014,
+                "stars": 1015,
                 "topics": [
                   "active-learning",
                   "asreview",
@@ -391,7 +391,7 @@
                 "open_issues": 32,
                 "owner": "amices",
                 "repo": "mice",
-                "stars": 518,
+                "stars": 519,
                 "topics": [
                   "chained-equations",
                   "fcs",
@@ -649,7 +649,7 @@
                 "id": 61718900,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-22T16:34:48Z",
+                "last_commit": "2026-09-23T15:24:34Z",
                 "open_issues": 246,
                 "owner": "computationalgeography",
                 "repo": "lue",
@@ -742,7 +742,7 @@
                 "id": 600476509,
                 "language": "R",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-24T11:08:54Z",
+                "last_commit": "2026-09-23T13:26:30Z",
                 "open_issues": 6,
                 "owner": "MindTheGap-ERC",
                 "repo": "admtools",
@@ -1042,8 +1042,8 @@
                 "id": 682478059,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T13:58:48Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-23T06:56:43Z",
+                "open_issues": 28,
                 "owner": "Parcels-code",
                 "repo": "virtualship",
                 "stars": 13,
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:14:50.788Z",
+    "last_updated": "2026-09-23T23:06:59.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
