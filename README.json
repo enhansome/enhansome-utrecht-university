@@ -38,8 +38,8 @@
                 "id": 65918451,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T11:23:38Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-26T16:00:41Z",
+                "open_issues": 30,
                 "owner": "UU-Hydro",
                 "repo": "PCR-GLOBWB_model",
                 "stars": 148,
@@ -326,7 +326,7 @@
                 "open_issues": 119,
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 1018,
+                "stars": 1019,
                 "topics": [
                   "active-learning",
                   "asreview",
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:30:19.052Z",
+    "last_updated": "2026-09-26T23:08:04.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
