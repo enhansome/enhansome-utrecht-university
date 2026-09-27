@@ -289,7 +289,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-02-21T18:15:38Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
                 "stars": 1062,
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:08:04.261Z",
+    "last_updated": "2026-09-27T23:23:03.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
