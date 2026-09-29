@@ -42,7 +42,7 @@
                 "open_issues": 31,
                 "owner": "UU-Hydro",
                 "repo": "PCR-GLOBWB_model",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
@@ -326,7 +326,7 @@
                 "open_issues": 119,
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 1019,
+                "stars": 1020,
                 "topics": [
                   "active-learning",
                   "asreview",
@@ -447,11 +447,11 @@
                 "id": 43358723,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T21:01:18Z",
-                "open_issues": 110,
+                "last_commit": "2026-09-29T16:50:07Z",
+                "open_issues": 109,
                 "owner": "Parcels-code",
                 "repo": "Parcels",
-                "stars": 364,
+                "stars": 365,
                 "topics": [
                   "lagrangian-ocean-modelling",
                   "ocean-circulation-models",
@@ -503,7 +503,7 @@
                 "id": 587441886,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T07:10:54Z",
+                "last_commit": "2026-09-29T06:30:15Z",
                 "open_issues": 0,
                 "owner": "UtrechtUniversity",
                 "repo": "ricgraph",
@@ -568,8 +568,8 @@
                 "id": 724112706,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-17T11:47:40Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-29T18:12:23Z",
+                "open_issues": 10,
                 "owner": "iBridges-for-iRODS",
                 "repo": "iBridges",
                 "stars": 21,
@@ -1042,8 +1042,8 @@
                 "id": 682478059,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T21:01:30Z",
-                "open_issues": 29,
+                "last_commit": "2026-09-29T14:02:14Z",
+                "open_issues": 26,
                 "owner": "Parcels-code",
                 "repo": "virtualship",
                 "stars": 13,
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T00:30:57.217Z",
+    "last_updated": "2026-09-29T23:56:48.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
