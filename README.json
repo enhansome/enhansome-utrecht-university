@@ -448,7 +448,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-01T04:10:37Z",
-                "open_issues": 95,
+                "open_issues": 96,
                 "owner": "Parcels-code",
                 "repo": "Parcels",
                 "stars": 365,
@@ -623,7 +623,7 @@
                 "id": 428990798,
                 "language": "Python",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-01T11:17:38Z",
+                "last_commit": "2026-10-02T07:11:37Z",
                 "open_issues": 8,
                 "owner": "iBridges-for-iRODS",
                 "repo": "iBridges-GUI",
@@ -650,7 +650,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-28T15:23:10Z",
-                "open_issues": 244,
+                "open_issues": 243,
                 "owner": "computationalgeography",
                 "repo": "lue",
                 "stars": 17,
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T00:10:27.185Z",
+    "last_updated": "2026-10-02T23:58:52.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
