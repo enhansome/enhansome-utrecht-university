@@ -322,11 +322,11 @@
                 "id": 164874894,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T23:14:06Z",
-                "open_issues": 119,
+                "last_commit": "2026-10-06T02:22:52Z",
+                "open_issues": 120,
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 1026,
+                "stars": 1027,
                 "topics": [
                   "active-learning",
                   "asreview",
@@ -447,8 +447,8 @@
                 "id": 43358723,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T22:12:36Z",
-                "open_issues": 101,
+                "last_commit": "2026-10-06T10:54:32Z",
+                "open_issues": 96,
                 "owner": "Parcels-code",
                 "repo": "Parcels",
                 "stars": 365,
@@ -623,8 +623,8 @@
                 "id": 428990798,
                 "language": "Python",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-05T21:18:40Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-06T07:10:39Z",
+                "open_issues": 7,
                 "owner": "iBridges-for-iRODS",
                 "repo": "iBridges-GUI",
                 "stars": 18,
@@ -894,7 +894,7 @@
                 "open_issues": 40,
                 "owner": "cjvanlissa",
                 "repo": "worcs",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
@@ -1042,7 +1042,7 @@
                 "id": 682478059,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T22:12:42Z",
+                "last_commit": "2026-10-06T09:24:55Z",
                 "open_issues": 28,
                 "owner": "Parcels-code",
                 "repo": "virtualship",
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:25:24.931Z",
+    "last_updated": "2026-10-06T10:56:09.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
