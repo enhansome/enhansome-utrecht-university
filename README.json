@@ -326,7 +326,7 @@
                 "open_issues": 120,
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 1030,
+                "stars": 1031,
                 "topics": [
                   "active-learning",
                   "asreview",
@@ -503,7 +503,7 @@
                 "id": 587441886,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-09T08:56:33Z",
+                "last_commit": "2026-10-11T11:46:16Z",
                 "open_issues": 0,
                 "owner": "UtrechtUniversity",
                 "repo": "ricgraph",
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T23:48:15.401Z",
+    "last_updated": "2026-10-11T23:57:21.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
