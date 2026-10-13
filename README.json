@@ -38,7 +38,7 @@
                 "id": 65918451,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T12:42:40Z",
+                "last_commit": "2026-10-13T18:00:06Z",
                 "open_issues": 30,
                 "owner": "UU-Hydro",
                 "repo": "PCR-GLOBWB_model",
@@ -326,7 +326,7 @@
                 "open_issues": 124,
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 1031,
+                "stars": 1034,
                 "topics": [
                   "active-learning",
                   "asreview",
@@ -391,7 +391,7 @@
                 "open_issues": 33,
                 "owner": "amices",
                 "repo": "mice",
-                "stars": 520,
+                "stars": 521,
                 "topics": [
                   "chained-equations",
                   "fcs",
@@ -421,7 +421,7 @@
                 "open_issues": 5,
                 "owner": "haddocking",
                 "repo": "pdb-tools",
-                "stars": 458,
+                "stars": 459,
                 "topics": [
                   "bioinformatics",
                   "pdb",
@@ -447,11 +447,11 @@
                 "id": 43358723,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-12T21:04:03Z",
-                "open_issues": 96,
+                "last_commit": "2026-10-13T18:41:17Z",
+                "open_issues": 95,
                 "owner": "Parcels-code",
                 "repo": "Parcels",
-                "stars": 366,
+                "stars": 367,
                 "topics": [
                   "lagrangian-ocean-modelling",
                   "ocean-circulation-models",
@@ -503,7 +503,7 @@
                 "id": 587441886,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-11T11:46:16Z",
+                "last_commit": "2026-10-13T13:06:30Z",
                 "open_issues": 0,
                 "owner": "UtrechtUniversity",
                 "repo": "ricgraph",
@@ -828,7 +828,7 @@
                 "open_issues": 0,
                 "owner": "J535D165",
                 "repo": "CoronaWatchNL",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "coronavirus",
                   "coronavirus-globaloutbreak",
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:13:41.586Z",
+    "last_updated": "2026-10-13T23:50:52.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
