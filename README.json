@@ -421,7 +421,7 @@
                 "open_issues": 5,
                 "owner": "haddocking",
                 "repo": "pdb-tools",
-                "stars": 459,
+                "stars": 460,
                 "topics": [
                   "bioinformatics",
                   "pdb",
@@ -503,7 +503,7 @@
                 "id": 587441886,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T13:06:30Z",
+                "last_commit": "2026-10-17T18:18:04Z",
                 "open_issues": 0,
                 "owner": "UtrechtUniversity",
                 "repo": "ricgraph",
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:59:49.500Z",
+    "last_updated": "2026-10-17T22:37:48.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
