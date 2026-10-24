@@ -292,7 +292,7 @@
                 "open_issues": 65,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1063,
+                "stars": 1064,
                 "topics": [
                   "data-matching",
                   "dedupe",
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:28:05.705Z",
+    "last_updated": "2026-10-24T22:42:35.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
