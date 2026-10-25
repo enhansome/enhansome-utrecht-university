@@ -292,7 +292,7 @@
                 "open_issues": 65,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1064,
+                "stars": 1065,
                 "topics": [
                   "data-matching",
                   "dedupe",
@@ -323,10 +323,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-20T18:56:12Z",
-                "open_issues": 125,
+                "open_issues": 126,
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 1050,
+                "stars": 1051,
                 "topics": [
                   "active-learning",
                   "asreview",
@@ -503,7 +503,7 @@
                 "id": 587441886,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-23T15:09:41Z",
+                "last_commit": "2026-10-25T09:27:42Z",
                 "open_issues": 0,
                 "owner": "UtrechtUniversity",
                 "repo": "ricgraph",
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T22:42:35.587Z",
+    "last_updated": "2026-10-25T22:47:10.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
