@@ -2,7 +2,7 @@
 
 # Awesome Utrecht University with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,317 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,849 | 🐛 105 | 📅 2026-09-02
 
 A curated list of awesome research code, software, manuals, and more on Git, developed by [**Utrecht University**](https://uu.nl) researchers, students, and employees. The list can be your starting point to find interesting UU projects, and get inpired and learn from other projects. Is your project also "awesome"? Add it to this list (see [Contributing](CONTRIBUTING.md)).
 
@@ -55,14 +55,14 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 
 *Software developed by researchers and employees of Utrecht University. The software in this list is installable and can be used in new or existing research projects or courses.*
 
-* [recordlinkage](https://github.com/J535D165/recordlinkage) ⭐ 1,065 | 🐛 65 | 🌐 Python | 📅 2024-02-21 - A toolkit for record linkage and duplicate detection in Python
+* [recordlinkage](https://github.com/J535D165/recordlinkage) ⭐ 1,066 | 🐛 65 | 🌐 Python | 📅 2024-02-21 - A toolkit for record linkage and duplicate detection in Python
 * [asreview](https://github.com/asreview/asreview) ⭐ 1,057 | 🐛 127 | 🌐 Python | 📅 2026-10-26 - Active learning for systematic reviews
 * [mice](https://github.com/amices/mice) ⭐ 521 | 🐛 34 | 🌐 R | 📅 2026-07-07 - Multivariate Imputation by Chained Equations
   * [ggmice](https://github.com/amices/ggmice) ⭐ 35 | 🐛 58 | 🌐 R | 📅 2026-08-10 - Visualize incomplete and imputed data with the R package `ggmice`
-* [pdb-tools](https://github.com/haddocking/pdb-tools) ⭐ 461 | 🐛 7 | 🌐 Python | 📅 2026-06-10 - A dependency-free cross-platform swiss army knife for PDB files.
-* [parcels](https://github.com/OceanParcels/parcels) ⭐ 370 | 🐛 69 | 🌐 Python | 📅 2026-10-28 - Main code for Parcels (Probably A Really Computationally Efficient Lagrangian Simulator)
+* [pdb-tools](https://github.com/haddocking/pdb-tools) ⭐ 461 | 🐛 8 | 🌐 Python | 📅 2026-06-10 - A dependency-free cross-platform swiss army knife for PDB files.
+* [parcels](https://github.com/OceanParcels/parcels) ⭐ 370 | 🐛 70 | 🌐 Python | 📅 2026-10-29 - Main code for Parcels (Probably A Really Computationally Efficient Lagrangian Simulator)
 * [PCRaster](https://github.com/pcraster/pcraster) ⭐ 100 | 🐛 84 | 🌐 C++ | 📅 2026-10-05 - Environmental modeling software
-* [Ricgraph](https://github.com/UtrechtUniversity/ricgraph) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-10-28 - With Ricgraph, you can create a graph from research information that is stored in various source systems. You can explore this graph and discover relations you were not aware of. For code, extensive documentation and videos follow the link.
+* [Ricgraph](https://github.com/UtrechtUniversity/ricgraph) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2026-10-29 - With Ricgraph, you can create a graph from research information that is stored in various source systems. You can explore this graph and discover relations you were not aware of. For code, extensive documentation and videos follow the link.
 * [Stitch](https://github.com/snijderlab/stitch) ⭐ 32 | 🐛 22 | 🌐 C# | 📅 2024-10-15 - A program for de novo sequencing of antibodies/proteins based on massspectrometry data.
 * [iBridges](https://github.com/UtrechtUniversity/iBridges) ⭐ 21 | 🐛 9 | 🌐 Python | 📅 2026-10-27 - Python API and commandline interface to easily interact with Yoda and iRODS servers
 * [osmenrich](https://github.com/sodascience/osmenrich) ⭐ 19 | 🐛 4 | 🌐 R | 📅 2021-12-21 - Enrich sf data with geographic features from OpenStreetMaps.
@@ -87,7 +87,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 
 *Tools for research project management, data management, software management, and lab tools.*
 
-* [worcs](https://github.com/cjvanlissa/worcs) ⭐ 91 | 🐛 40 | 🌐 HTML | 📅 2026-10-07 - Rstudio project template and convenience functions for the Workflow for Open Reproducible Code in Science (WORCS)
+* [worcs](https://github.com/cjvanlissa/worcs) ⭐ 90 | 🐛 40 | 🌐 HTML | 📅 2026-10-07 - Rstudio project template and convenience functions for the Workflow for Open Reproducible Code in Science (WORCS)
 * [UU-dissertation-template](https://github.com/UtrechtUniversity/UU-dissertation-template) ⭐ 23 | 🐛 5 | 🌐 TeX | 📅 2025-07-31 - a Utrecht University dissertation template for LaTeX.
 * [uu-quarto-presentation-template](https://github.com/UtrechtUniversity/uu-quarto-presentation-template) ⭐ 13 | 🐛 1 | 🌐 SCSS | 📅 2026-10-06 - a Utrecht University template for presentations using Quarto.
 * [beamer-uu](https://github.com/joszuijderwijk/beamer-uu) ⭐ 8 | 🐛 0 | 🌐 TeX | 📅 2026-05-14 - a Utrecht University template for presentations using LaTeX beamer.
@@ -122,7 +122,7 @@ Do you know about a project that should be in the Awesome Utrecht University lis
 
 ### What is an Awesome list?
 
-"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see <https://github.com/sindresorhus/awesome> ⭐ 526,317 | 🐛 105 | 📅 2026-09-02). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 526,317 | 🐛 105 | 📅 2026-09-02 for more information about awesome lists.
+"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see <https://github.com/sindresorhus/awesome> ⭐ 526,849 | 🐛 105 | 📅 2026-09-02). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 526,849 | 🐛 105 | 📅 2026-09-02 for more information about awesome lists.
 
 ### Initial project collection
 
@@ -150,4 +150,4 @@ Are you a Utrecht University researcher looking for support on making your resea
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
