@@ -322,11 +322,11 @@
                 "id": 164874894,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T16:46:26Z",
+                "last_commit": "2026-10-31T18:33:17Z",
                 "open_issues": 127,
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 1059,
+                "stars": 1060,
                 "topics": [
                   "active-learning",
                   "asreview",
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T00:01:26.599Z",
+    "last_updated": "2026-10-31T23:41:31.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
