@@ -42,7 +42,7 @@
                 "open_issues": 31,
                 "owner": "UU-Hydro",
                 "repo": "PCR-GLOBWB_model",
-                "stars": 150,
+                "stars": 151,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
@@ -278,6 +278,41 @@
           "children": [
             {
               "node_type": "item",
+              "title": "asreview",
+              "description": "Active learning for systematic reviews",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Active learning for systematic reviews",
+                "homepage": "https://asreview.ai",
+                "id": 164874894,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-05T00:09:29Z",
+                "open_issues": 130,
+                "owner": "asreview",
+                "repo": "asreview",
+                "stars": 1067,
+                "topics": [
+                  "active-learning",
+                  "asreview",
+                  "deep-learning",
+                  "language-model",
+                  "learning-algorithms",
+                  "literature",
+                  "llm",
+                  "natural-language-processing",
+                  "neural-network",
+                  "research",
+                  "systematic-literature-reviews",
+                  "systematic-reviews",
+                  "utrecht-university"
+                ]
+              },
+              "first_seen": "2026-08-28T04:27:56.055Z"
+            },
+            {
+              "node_type": "item",
               "title": "recordlinkage",
               "description": "A toolkit for record linkage and duplicate detection in Python",
               "children": [],
@@ -292,7 +327,7 @@
                 "open_issues": 64,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1066,
+                "stars": 1067,
                 "topics": [
                   "data-matching",
                   "dedupe",
@@ -305,41 +340,6 @@
                   "record-linkage",
                   "similarity",
                   "string-distance",
-                  "utrecht-university"
-                ]
-              },
-              "first_seen": "2026-08-28T04:27:56.055Z"
-            },
-            {
-              "node_type": "item",
-              "title": "asreview",
-              "description": "Active learning for systematic reviews",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Active learning for systematic reviews",
-                "homepage": "https://asreview.ai",
-                "id": 164874894,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-05T00:09:29Z",
-                "open_issues": 129,
-                "owner": "asreview",
-                "repo": "asreview",
-                "stars": 1065,
-                "topics": [
-                  "active-learning",
-                  "asreview",
-                  "deep-learning",
-                  "language-model",
-                  "learning-algorithms",
-                  "literature",
-                  "llm",
-                  "natural-language-processing",
-                  "neural-network",
-                  "research",
-                  "systematic-literature-reviews",
-                  "systematic-reviews",
                   "utrecht-university"
                 ]
               },
@@ -362,8 +362,8 @@
                     "id": 458169375,
                     "language": "R",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-10T00:57:45Z",
-                    "open_issues": 59,
+                    "last_commit": "2026-11-05T16:59:55Z",
+                    "open_issues": 61,
                     "owner": "amices",
                     "repo": "ggmice",
                     "stars": 35,
@@ -447,8 +447,8 @@
                 "id": 43358723,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-04T22:08:03Z",
-                "open_issues": 64,
+                "last_commit": "2026-11-05T16:34:46Z",
+                "open_issues": 63,
                 "owner": "Parcels-code",
                 "repo": "Parcels",
                 "stars": 372,
@@ -503,7 +503,7 @@
                 "id": 587441886,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-04T10:09:31Z",
+                "last_commit": "2026-11-05T13:52:44Z",
                 "open_issues": 0,
                 "owner": "UtrechtUniversity",
                 "repo": "ricgraph",
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:01:57.992Z",
+    "last_updated": "2026-11-06T01:05:59.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
