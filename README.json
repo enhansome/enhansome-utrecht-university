@@ -503,7 +503,7 @@
                 "id": 587441886,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-05T13:52:44Z",
+                "last_commit": "2026-11-07T18:30:33Z",
                 "open_issues": 0,
                 "owner": "UtrechtUniversity",
                 "repo": "ricgraph",
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:17:47.796Z",
+    "last_updated": "2026-11-07T23:55:33.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
