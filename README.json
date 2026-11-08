@@ -292,7 +292,7 @@
                 "open_issues": 130,
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 1067,
+                "stars": 1068,
                 "topics": [
                   "active-learning",
                   "asreview",
@@ -447,8 +447,8 @@
                 "id": 43358723,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-06T10:48:44Z",
-                "open_issues": 61,
+                "last_commit": "2026-11-08T13:59:28Z",
+                "open_issues": 64,
                 "owner": "Parcels-code",
                 "repo": "Parcels",
                 "stars": 372,
@@ -623,8 +623,8 @@
                 "id": 428990798,
                 "language": "Python",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-06T07:17:20Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-08T09:21:07Z",
+                "open_issues": 8,
                 "owner": "iBridges-for-iRODS",
                 "repo": "iBridges-GUI",
                 "stars": 18,
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T23:55:33.301Z",
+    "last_updated": "2026-11-08T23:59:14.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
