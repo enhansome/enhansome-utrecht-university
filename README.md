@@ -2,7 +2,7 @@
 
 # Awesome Utrecht University with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,959 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,464 | 🐛 104 | 📅 2026-09-02
 
 A curated list of awesome research code, software, manuals, and more on Git, developed by [**Utrecht University**](https://uu.nl) researchers, students, and employees. The list can be your starting point to find interesting UU projects, and get inpired and learn from other projects. Is your project also "awesome"? Add it to this list (see [Contributing](CONTRIBUTING.md)).
 
@@ -55,14 +55,14 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 
 *Software developed by researchers and employees of Utrecht University. The software in this list is installable and can be used in new or existing research projects or courses.*
 
-* [asreview](https://github.com/asreview/asreview) ⭐ 1,071 | 🐛 131 | 🌐 Python | 📅 2026-11-09 - Active learning for systematic reviews
+* [asreview](https://github.com/asreview/asreview) ⭐ 1,072 | 🐛 132 | 🌐 Python | 📅 2026-11-09 - Active learning for systematic reviews
 * [recordlinkage](https://github.com/J535D165/recordlinkage) ⭐ 1,067 | 🐛 64 | 🌐 Python | 📅 2024-02-21 - A toolkit for record linkage and duplicate detection in Python
-* [mice](https://github.com/amices/mice) ⭐ 521 | 🐛 21 | 🌐 R | 📅 2026-11-12 - Multivariate Imputation by Chained Equations
+* [mice](https://github.com/amices/mice) ⭐ 521 | 🐛 23 | 🌐 R | 📅 2026-11-13 - Multivariate Imputation by Chained Equations
   * [ggmice](https://github.com/amices/ggmice) ⭐ 35 | 🐛 60 | 🌐 R | 📅 2026-11-06 - Visualize incomplete and imputed data with the R package `ggmice`
-* [pdb-tools](https://github.com/haddocking/pdb-tools) ⭐ 463 | 🐛 6 | 🌐 Python | 📅 2026-11-10 - A dependency-free cross-platform swiss army knife for PDB files.
-* [parcels](https://github.com/OceanParcels/parcels) ⭐ 373 | 🐛 64 | 🌐 Python | 📅 2026-11-12 - Main code for Parcels (Probably A Really Computationally Efficient Lagrangian Simulator)
-* [PCRaster](https://github.com/pcraster/pcraster) ⭐ 100 | 🐛 84 | 🌐 C++ | 📅 2026-11-12 - Environmental modeling software
-* [Ricgraph](https://github.com/UtrechtUniversity/ricgraph) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2026-11-12 - With Ricgraph, you can create a graph from research information that is stored in various source systems. You can explore this graph and discover relations you were not aware of. For code, extensive documentation and videos follow the link.
+* [pdb-tools](https://github.com/haddocking/pdb-tools) ⭐ 463 | 🐛 5 | 🌐 Python | 📅 2026-11-13 - A dependency-free cross-platform swiss army knife for PDB files.
+* [parcels](https://github.com/OceanParcels/parcels) ⭐ 373 | 🐛 62 | 🌐 Python | 📅 2026-11-13 - Main code for Parcels (Probably A Really Computationally Efficient Lagrangian Simulator)
+* [PCRaster](https://github.com/pcraster/pcraster) ⭐ 100 | 🐛 79 | 🌐 C++ | 📅 2026-11-12 - Environmental modeling software
+* [Ricgraph](https://github.com/UtrechtUniversity/ricgraph) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - With Ricgraph, you can create a graph from research information that is stored in various source systems. You can explore this graph and discover relations you were not aware of. For code, extensive documentation and videos follow the link.
 * [Stitch](https://github.com/snijderlab/stitch) ⭐ 32 | 🐛 22 | 🌐 C# | 📅 2024-10-15 - A program for de novo sequencing of antibodies/proteins based on massspectrometry data.
 * [iBridges](https://github.com/UtrechtUniversity/iBridges) ⭐ 21 | 🐛 11 | 🌐 Python | 📅 2026-11-10 - Python API and commandline interface to easily interact with Yoda and iRODS servers
 * [osmenrich](https://github.com/sodascience/osmenrich) ⭐ 19 | 🐛 4 | 🌐 R | 📅 2021-12-21 - Enrich sf data with geographic features from OpenStreetMaps.
@@ -122,7 +122,7 @@ Do you know about a project that should be in the Awesome Utrecht University lis
 
 ### What is an Awesome list?
 
-"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see <https://github.com/sindresorhus/awesome> ⭐ 535,959 | 🐛 103 | 📅 2026-09-02). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 535,959 | 🐛 103 | 📅 2026-09-02 for more information about awesome lists.
+"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see <https://github.com/sindresorhus/awesome> ⭐ 536,464 | 🐛 104 | 📅 2026-09-02). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 536,464 | 🐛 104 | 📅 2026-09-02 for more information about awesome lists.
 
 ### Initial project collection
 
@@ -150,4 +150,4 @@ Are you a Utrecht University researcher looking for support on making your resea
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
