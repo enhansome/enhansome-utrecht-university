@@ -292,7 +292,7 @@
                 "open_issues": 132,
                 "owner": "asreview",
                 "repo": "asreview",
-                "stars": 1072,
+                "stars": 1074,
                 "topics": [
                   "active-learning",
                   "asreview",
@@ -387,8 +387,8 @@
                 "id": 8910139,
                 "language": "R",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-13T18:02:57Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-14T22:24:28Z",
+                "open_issues": 22,
                 "owner": "amices",
                 "repo": "mice",
                 "stars": 521,
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:00:11.252Z",
+    "last_updated": "2026-11-15T00:14:27.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
