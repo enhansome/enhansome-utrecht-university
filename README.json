@@ -387,8 +387,8 @@
                 "id": 8910139,
                 "language": "R",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-17T16:52:28Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-18T15:20:03Z",
+                "open_issues": 10,
                 "owner": "amices",
                 "repo": "mice",
                 "stars": 521,
@@ -447,8 +447,8 @@
                 "id": 43358723,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-17T21:01:48Z",
-                "open_issues": 67,
+                "last_commit": "2026-11-18T19:13:45Z",
+                "open_issues": 64,
                 "owner": "Parcels-code",
                 "repo": "Parcels",
                 "stars": 375,
@@ -547,7 +547,7 @@
                 "open_issues": 22,
                 "owner": "snijderlab",
                 "repo": "stitch",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "antibody",
                   "mass-spectrometry",
@@ -650,7 +650,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-17T10:18:55Z",
-                "open_issues": 245,
+                "open_issues": 248,
                 "owner": "computationalgeography",
                 "repo": "lue",
                 "stars": 17,
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T02:34:42.957Z",
+    "last_updated": "2026-11-19T01:59:05.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
