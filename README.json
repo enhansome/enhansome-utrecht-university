@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "alexandrosstergiou",
                 "repo": "SoftPool",
-                "stars": 301,
+                "stars": 300,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
@@ -327,7 +327,7 @@
                 "open_issues": 64,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1066,
+                "stars": 1065,
                 "topics": [
                   "data-matching",
                   "dedupe",
@@ -387,7 +387,7 @@
                 "id": 8910139,
                 "language": "R",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-18T15:20:03Z",
+                "last_commit": "2026-11-19T11:45:26Z",
                 "open_issues": 10,
                 "owner": "amices",
                 "repo": "mice",
@@ -421,7 +421,7 @@
                 "open_issues": 5,
                 "owner": "haddocking",
                 "repo": "pdb-tools",
-                "stars": 463,
+                "stars": 462,
                 "topics": [
                   "bioinformatics",
                   "pdb",
@@ -447,11 +447,11 @@
                 "id": 43358723,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-18T19:13:45Z",
-                "open_issues": 64,
+                "last_commit": "2026-11-19T09:58:15Z",
+                "open_issues": 63,
                 "owner": "Parcels-code",
                 "repo": "Parcels",
-                "stars": 375,
+                "stars": 374,
                 "topics": [
                   "lagrangian-ocean-modelling",
                   "ocean-circulation-models",
@@ -649,8 +649,8 @@
                 "id": 61718900,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-17T10:18:55Z",
-                "open_issues": 248,
+                "last_commit": "2026-11-19T13:14:04Z",
+                "open_issues": 246,
                 "owner": "computationalgeography",
                 "repo": "lue",
                 "stars": 17,
@@ -1043,7 +1043,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-17T05:59:13Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "Parcels-code",
                 "repo": "virtualship",
                 "stars": 14,
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:59:05.176Z",
+    "last_updated": "2026-11-20T01:53:27.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
