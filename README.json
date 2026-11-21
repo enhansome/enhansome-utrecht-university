@@ -38,11 +38,11 @@
                 "id": 65918451,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-17T12:54:11Z",
+                "last_commit": "2026-11-20T10:11:03Z",
                 "open_issues": 34,
                 "owner": "UU-Hydro",
                 "repo": "PCR-GLOBWB_model",
-                "stars": 151,
+                "stars": 152,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:27:56.055Z"
@@ -421,7 +421,7 @@
                 "open_issues": 5,
                 "owner": "haddocking",
                 "repo": "pdb-tools",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "bioinformatics",
                   "pdb",
@@ -448,7 +448,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-19T09:58:15Z",
-                "open_issues": 63,
+                "open_issues": 62,
                 "owner": "Parcels-code",
                 "repo": "Parcels",
                 "stars": 374,
@@ -1042,8 +1042,8 @@
                 "id": 682478059,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-17T05:59:13Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-20T08:55:16Z",
+                "open_issues": 19,
                 "owner": "Parcels-code",
                 "repo": "virtualship",
                 "stars": 14,
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:53:27.350Z",
+    "last_updated": "2026-11-21T01:43:01.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
