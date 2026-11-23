@@ -388,7 +388,7 @@
                 "language": "R",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-19T11:45:26Z",
-                "open_issues": 10,
+                "open_issues": 15,
                 "owner": "amices",
                 "repo": "mice",
                 "stars": 521,
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T00:39:05.839Z",
+    "last_updated": "2026-11-23T01:07:10.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",

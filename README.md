@@ -2,7 +2,7 @@
 
 # Awesome Utrecht University with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,534 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,118 | 🐛 103 | 📅 2026-09-02
 
 A curated list of awesome research code, software, manuals, and more on Git, developed by [**Utrecht University**](https://uu.nl) researchers, students, and employees. The list can be your starting point to find interesting UU projects, and get inpired and learn from other projects. Is your project also "awesome"? Add it to this list (see [Contributing](CONTRIBUTING.md)).
 
@@ -57,7 +57,7 @@ A curated list of awesome research code, software, manuals, and more on Git, dev
 
 * [asreview](https://github.com/asreview/asreview) ⭐ 1,077 | 🐛 133 | 🌐 Python | 📅 2026-11-16 - Active learning for systematic reviews
 * [recordlinkage](https://github.com/J535D165/recordlinkage) ⭐ 1,065 | 🐛 64 | 🌐 Python | 📅 2024-02-21 - A toolkit for record linkage and duplicate detection in Python
-* [mice](https://github.com/amices/mice) ⭐ 521 | 🐛 10 | 🌐 R | 📅 2026-11-19 - Multivariate Imputation by Chained Equations
+* [mice](https://github.com/amices/mice) ⭐ 521 | 🐛 15 | 🌐 R | 📅 2026-11-19 - Multivariate Imputation by Chained Equations
   * [ggmice](https://github.com/amices/ggmice) ⭐ 35 | 🐛 61 | 🌐 R | 📅 2026-11-16 - Visualize incomplete and imputed data with the R package `ggmice`
 * [pdb-tools](https://github.com/haddocking/pdb-tools) ⭐ 463 | 🐛 5 | 🌐 Python | 📅 2026-11-13 - A dependency-free cross-platform swiss army knife for PDB files.
 * [parcels](https://github.com/OceanParcels/parcels) ⭐ 374 | 🐛 62 | 🌐 Python | 📅 2026-11-19 - Main code for Parcels (Probably A Really Computationally Efficient Lagrangian Simulator)
@@ -122,7 +122,7 @@ Do you know about a project that should be in the Awesome Utrecht University lis
 
 ### What is an Awesome list?
 
-"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see <https://github.com/sindresorhus/awesome> ⭐ 540,534 | 🐛 103 | 📅 2026-09-02). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 540,534 | 🐛 103 | 📅 2026-09-02 for more information about awesome lists.
+"Awesome lists" are curated lists of awesome stuff. The lists are very popular in the field of open source development (see <https://github.com/sindresorhus/awesome> ⭐ 541,118 | 🐛 103 | 📅 2026-09-02). Read ["The awesome manifesto"](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 541,118 | 🐛 103 | 📅 2026-09-02 for more information about awesome lists.
 
 ### Initial project collection
 
@@ -150,4 +150,4 @@ Are you a Utrecht University researcher looking for support on making your resea
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
