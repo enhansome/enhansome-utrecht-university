@@ -388,7 +388,7 @@
                 "language": "R",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-23T12:33:21Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "amices",
                 "repo": "mice",
                 "stars": 522,
@@ -447,8 +447,8 @@
                 "id": 43358723,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-24T07:02:44Z",
-                "open_issues": 61,
+                "last_commit": "2026-11-26T08:53:48Z",
+                "open_issues": 63,
                 "owner": "Parcels-code",
                 "repo": "Parcels",
                 "stars": 374,
@@ -650,7 +650,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-25T16:12:22Z",
-                "open_issues": 248,
+                "open_issues": 246,
                 "owner": "computationalgeography",
                 "repo": "lue",
                 "stars": 17,
@@ -1177,7 +1177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:03:22.777Z",
+    "last_updated": "2026-11-27T03:15:00.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open source projects from Utrecht University. ",
